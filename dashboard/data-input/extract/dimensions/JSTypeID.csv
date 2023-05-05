@@ -1,0 +1,10 @@
+JSTypeID,ModeID,JSTypeNA
+1,1,Urban
+2,1,Rural
+3,1,Highway
+4,2,Railway
+5,3,Inland
+6,3,Coastal
+7,3,Marine
+8,4,Take-off/Landing
+9,4,Cruising
