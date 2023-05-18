@@ -1,0 +1,16 @@
+FuelID,FuelTypeID,FuelAB,FuelNA,Condition,DenomUnit,Density_kg,CalValue_MJ
+1,1,GAS,Gasoline,NA,l,0.745,32.184
+2,1,DIESEL,Diesel,NA,l,0.832,35.86
+3,1,GAS_IMP,Improved Gasoline,NA,l,0.745,32.184
+4,1,DIE_IMP,Improved Diesel,NA,l,0.832,35.86
+5,1,LPG,Liquified Petroleum Gas,NA,l,0.55,25.3
+6,3,MEOH,Biomethanol,NA,l,0.793,15.78
+7,3,E85,Bioethanol(85)-petrol(15) blend,NA,l,0.787,23.02
+8,3,B100,"Biodiesel (FT, synthetic)",NA,l,0.78,34.32
+10,2,CNG,Compressed Natural Gas,200 bar (20 MPa),l,0.174,8.3
+11,3,CBG,Compressed Bio Gas,200 bar (20 MPa),l,0.174,8.3
+12,4,EL,Electricity,NA,Wh,NA,0.0036
+13,3,GH2,Gaseous Hydrogen,700 bar compressed,l,0.02664,3.2
+14,3,LH2,Liquefied Hydrogen,-253 deg C. (20 K),l,0.0766,9.2
+15,1,KEROSENE,Aviation fuel (Jet A-1),NA,l,0.804,34.69
+16,3,BIOJET,Bio jet fuel (100%),NA,l,0.79,34
