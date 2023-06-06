@@ -5,23 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ada9abe3-6528-4a03-8a54-6633c42f154e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/TEAM-Kenya.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TEAM-Kenya.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/vehicle-fleet/Parameters_XX_enter_loadfactor_scrappage_avekm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation/Mode_Split_Trip_Distance_check_total_pkm.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/base-case-kenya-data/Travel_demand_TEAM-Kenya.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/base-case-kenya-data/Travel_demand_TEAM-Kenya.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/transport-demand/enter_mode_shares_triplength.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/transport-demand/enter_mode_shares_triplength.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/transport-demand/enter_pkm_tkm_in_parameters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/transport-demand/enter_pkm_tkm_in_parameters.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/transport-demand/enter_travel_demand.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/transport-demand/enter_travel_demand.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/vehicle-fleet/aggregate_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/vehicle-fleet/aggregate_data.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/vehicle-fleet/processing/return_numveh95.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/vehicle-fleet/processing/return_numveh95.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/translate_awareness_chargingavailability_to_scen_car_segments.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/translate_awareness_chargingavailability_to_scen_car_segments.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/translate_macro_forecasts_to_scen_gdp_pop.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/translate_macro_forecasts_to_scen_gdp_pop.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/translate_mode_shift_scenarios.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/translate_mode_shift_scenarios.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/translate_techsubsidies_to_technology.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/translate_techsubsidies_to_technology.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sources/TSDK_KEN.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/sources/TSDK_KEN.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/change_SHI_year_limit.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/change_supply_penalty_of_cars.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/input_generation_mix.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/translate_awareness_chargingavailability_to_scen_car_segments.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/translate_macro_forecasts_to_scen_gdp_pop.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/translate_mode_shift_scenarios.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/translate_techsubsidies_to_technology.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,22 +36,31 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PyGSiRJa8vBwtwcqLquQ3UAf1L" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/cenv0795/OneDrive - Nexus365/Code/CCG/TEAM-Kenya/scenarios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cenv0795\OneDrive - Nexus365\Code\CCG\TEAM-Kenya\scenarios" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +76,7 @@
       <workItem from="1684765986348" duration="3791000" />
       <workItem from="1684941166112" duration="57000" />
       <workItem from="1685528912456" duration="1511000" />
-      <workItem from="1685965325993" duration="5025000" />
+      <workItem from="1685965325993" duration="12882000" />
     </task>
     <servers />
   </component>
