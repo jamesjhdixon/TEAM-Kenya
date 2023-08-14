@@ -125,24 +125,24 @@ ScenarioID,CountryID,TechID,JSTypeVSMID,TechDescription,TransTypeID,VehTypeID,Ma
 1,9,9245,1,Road-Large (car)-Euro 6 (2015-19)-Passenger Transport,1,3,3,0.012350408
 1,9,9245,2,Road-Large (car)-Euro 6 (2015-19)-Passenger Transport,1,3,3,0.006175204
 1,9,9245,3,Road-Large (car)-Euro 6 (2015-19)-Passenger Transport,1,3,3,0.006175204
-1,9,250,1,Road-Small (car)-Conventional (pre-EURO)-Passenger Transport,1,3,1,0.002364372
-1,9,250,2,Road-Small (car)-Conventional (pre-EURO)-Passenger Transport,1,3,1,0.001182186
-1,9,250,3,Road-Small (car)-Conventional (pre-EURO)-Passenger Transport,1,3,1,0.001182186
-1,9,9250,1,Road-Small (car)-Conventional (pre-EURO)-Passenger Transport,1,3,1,0.013398106
-1,9,9250,2,Road-Small (car)-Conventional (pre-EURO)-Passenger Transport,1,3,1,0.006699053
-1,9,9250,3,Road-Small (car)-Conventional (pre-EURO)-Passenger Transport,1,3,1,0.006699053
-1,9,590,1,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0.002364372
-1,9,590,2,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0.001182186
-1,9,590,3,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0.001182186
-1,9,9590,1,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0.013398106
-1,9,9590,2,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0.006699053
-1,9,9590,3,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0.006699053
-1,9,600,1,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0.002364372
-1,9,600,2,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0.001182186
-1,9,600,3,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0.001182186
-1,9,9600,1,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0.013398106
-1,9,9600,2,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0.006699053
-1,9,9600,3,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0.006699053
+1,9,265,1,Road-Small (car)-Conventional (pre-EURO)-Passenger Transport,1,3,1,0.002364372
+1,9,265,2,Road-Small (car)-Conventional (pre-EURO)-Passenger Transport,1,3,1,0.001182186
+1,9,265,3,Road-Small (car)-Conventional (pre-EURO)-Passenger Transport,1,3,1,0.001182186
+1,9,9265,1,Road-Small (car)-Conventional (pre-EURO)-Passenger Transport,1,3,1,0.013398106
+1,9,9265,2,Road-Small (car)-Conventional (pre-EURO)-Passenger Transport,1,3,1,0.006699053
+1,9,9265,3,Road-Small (car)-Conventional (pre-EURO)-Passenger Transport,1,3,1,0.006699053
+1,9,266,1,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0.002364372
+1,9,266,2,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0.001182186
+1,9,266,3,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0.001182186
+1,9,9266,1,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0.013398106
+1,9,9266,2,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0.006699053
+1,9,9266,3,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0.006699053
+1,9,267,1,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0.002364372
+1,9,267,2,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0.001182186
+1,9,267,3,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0.001182186
+1,9,9267,1,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0.013398106
+1,9,9267,2,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0.006699053
+1,9,9267,3,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0.006699053
 1,9,295,1,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0.002364372
 1,9,295,2,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0.001182186
 1,9,295,3,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0.001182186
@@ -155,24 +155,24 @@ ScenarioID,CountryID,TechID,JSTypeVSMID,TechDescription,TransTypeID,VehTypeID,Ma
 1,9,9305,1,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0.013398106
 1,9,9305,2,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0.006699053
 1,9,9305,3,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0.006699053
-1,9,265,1,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0.002364372
-1,9,265,2,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0.001182186
-1,9,265,3,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0.001182186
-1,9,9265,1,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0.013398106
-1,9,9265,2,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0.006699053
-1,9,9265,3,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0.006699053
-1,9,266,1,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0.002364372
-1,9,266,2,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0.001182186
-1,9,266,3,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0.001182186
-1,9,9266,1,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0.013398106
-1,9,9266,2,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0.006699053
-1,9,9266,3,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0.006699053
-1,9,310,1,Road-Medium (car)-Conventional (pre-EURO)-Passenger Transport,1,3,2,0.001663265
-1,9,310,2,Road-Medium (car)-Conventional (pre-EURO)-Passenger Transport,1,3,2,0.000831632
-1,9,310,3,Road-Medium (car)-Conventional (pre-EURO)-Passenger Transport,1,3,2,0.000831632
-1,9,9310,1,Road-Medium (car)-Conventional (pre-EURO)-Passenger Transport,1,3,2,0.009425167
-1,9,9310,2,Road-Medium (car)-Conventional (pre-EURO)-Passenger Transport,1,3,2,0.004712583
-1,9,9310,3,Road-Medium (car)-Conventional (pre-EURO)-Passenger Transport,1,3,2,0.004712583
+1,9,268,1,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0.002364372
+1,9,268,2,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0.001182186
+1,9,268,3,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0.001182186
+1,9,9268,1,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0.013398106
+1,9,9268,2,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0.006699053
+1,9,9268,3,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0.006699053
+1,9,269,1,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0.002364372
+1,9,269,2,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0.001182186
+1,9,269,3,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0.001182186
+1,9,9269,1,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0.013398106
+1,9,9269,2,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0.006699053
+1,9,9269,3,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0.006699053
+1,9,250,1,Road-Medium (car)-Conventional (pre-EURO)-Passenger Transport,1,3,2,0.001663265
+1,9,250,2,Road-Medium (car)-Conventional (pre-EURO)-Passenger Transport,1,3,2,0.000831632
+1,9,250,3,Road-Medium (car)-Conventional (pre-EURO)-Passenger Transport,1,3,2,0.000831632
+1,9,9250,1,Road-Medium (car)-Conventional (pre-EURO)-Passenger Transport,1,3,2,0.009425167
+1,9,9250,2,Road-Medium (car)-Conventional (pre-EURO)-Passenger Transport,1,3,2,0.004712583
+1,9,9250,3,Road-Medium (car)-Conventional (pre-EURO)-Passenger Transport,1,3,2,0.004712583
 1,9,270,1,Road-Medium (car)-Euro 1 (1992-96)-Passenger Transport,1,3,2,0.001663265
 1,9,270,2,Road-Medium (car)-Euro 1 (1992-96)-Passenger Transport,1,3,2,0.000831632
 1,9,270,3,Road-Medium (car)-Euro 1 (1992-96)-Passenger Transport,1,3,2,0.000831632
@@ -209,18 +209,18 @@ ScenarioID,CountryID,TechID,JSTypeVSMID,TechDescription,TransTypeID,VehTypeID,Ma
 1,9,9251,1,Road-Medium (car)-Euro 6 (2015-19)-Passenger Transport,1,3,2,0.009425167
 1,9,9251,2,Road-Medium (car)-Euro 6 (2015-19)-Passenger Transport,1,3,2,0.004712583
 1,9,9251,3,Road-Medium (car)-Euro 6 (2015-19)-Passenger Transport,1,3,2,0.004712583
-1,9,330,1,Road-Large (car)-Conventional (pre-EURO)-Passenger Transport,1,3,3,0.003654955
-1,9,330,2,Road-Large (car)-Conventional (pre-EURO)-Passenger Transport,1,3,3,0.001827478
-1,9,330,3,Road-Large (car)-Conventional (pre-EURO)-Passenger Transport,1,3,3,0.001827478
-1,9,9330,1,Road-Large (car)-Conventional (pre-EURO)-Passenger Transport,1,3,3,0.020711414
-1,9,9330,2,Road-Large (car)-Conventional (pre-EURO)-Passenger Transport,1,3,3,0.010355707
-1,9,9330,3,Road-Large (car)-Conventional (pre-EURO)-Passenger Transport,1,3,3,0.010355707
-1,9,700,1,Road-Large (car)-Euro 1 (1992-96)-Passenger Transport,1,3,3,0.003654955
-1,9,700,2,Road-Large (car)-Euro 1 (1992-96)-Passenger Transport,1,3,3,0.001827478
-1,9,700,3,Road-Large (car)-Euro 1 (1992-96)-Passenger Transport,1,3,3,0.001827478
-1,9,9700,1,Road-Large (car)-Euro 1 (1992-96)-Passenger Transport,1,3,3,0.020711414
-1,9,9700,2,Road-Large (car)-Euro 1 (1992-96)-Passenger Transport,1,3,3,0.010355707
-1,9,9700,3,Road-Large (car)-Euro 1 (1992-96)-Passenger Transport,1,3,3,0.010355707
+1,9,310,1,Road-Large (car)-Conventional (pre-EURO)-Passenger Transport,1,3,3,0.003654955
+1,9,310,2,Road-Large (car)-Conventional (pre-EURO)-Passenger Transport,1,3,3,0.001827478
+1,9,310,3,Road-Large (car)-Conventional (pre-EURO)-Passenger Transport,1,3,3,0.001827478
+1,9,9310,1,Road-Large (car)-Conventional (pre-EURO)-Passenger Transport,1,3,3,0.020711414
+1,9,9310,2,Road-Large (car)-Conventional (pre-EURO)-Passenger Transport,1,3,3,0.010355707
+1,9,9310,3,Road-Large (car)-Conventional (pre-EURO)-Passenger Transport,1,3,3,0.010355707
+1,9,330,1,Road-Large (car)-Euro 1 (1992-96)-Passenger Transport,1,3,3,0.003654955
+1,9,330,2,Road-Large (car)-Euro 1 (1992-96)-Passenger Transport,1,3,3,0.001827478
+1,9,330,3,Road-Large (car)-Euro 1 (1992-96)-Passenger Transport,1,3,3,0.001827478
+1,9,9330,1,Road-Large (car)-Euro 1 (1992-96)-Passenger Transport,1,3,3,0.020711414
+1,9,9330,2,Road-Large (car)-Euro 1 (1992-96)-Passenger Transport,1,3,3,0.010355707
+1,9,9330,3,Road-Large (car)-Euro 1 (1992-96)-Passenger Transport,1,3,3,0.010355707
 1,9,340,1,Road-Large (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,3,0.003654955
 1,9,340,2,Road-Large (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,3,0.001827478
 1,9,340,3,Road-Large (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,3,0.001827478
@@ -263,36 +263,36 @@ ScenarioID,CountryID,TechID,JSTypeVSMID,TechDescription,TransTypeID,VehTypeID,Ma
 1,9,9551,1,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0
 1,9,9551,2,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0
 1,9,9551,3,Road-Small (car)-Euro 1 (1992-96)-Passenger Transport,1,3,1,0
-1,9,430,1,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0
-1,9,430,2,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0
-1,9,430,3,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0
-1,9,9430,1,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0
-1,9,9430,2,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0
-1,9,9430,3,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0
-1,9,610,1,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0
-1,9,610,2,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0
-1,9,610,3,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0
-1,9,9610,1,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0
-1,9,9610,2,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0
-1,9,9610,3,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0
-1,9,275,1,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
-1,9,275,2,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
-1,9,275,3,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
-1,9,9275,1,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
-1,9,9275,2,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
-1,9,9275,3,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
-1,9,276,1,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0
-1,9,276,2,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0
-1,9,276,3,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0
-1,9,9276,1,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0
-1,9,9276,2,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0
-1,9,9276,3,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0
-1,9,552,1,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
-1,9,552,2,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
-1,9,552,3,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
-1,9,9552,1,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
-1,9,9552,2,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
-1,9,9552,3,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
+1,9,552,1,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0
+1,9,552,2,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0
+1,9,552,3,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0
+1,9,9552,1,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0
+1,9,9552,2,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0
+1,9,9552,3,Road-Small (car)-Euro 2 (1996-2001)-Passenger Transport,1,3,1,0
+1,9,553,1,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0
+1,9,553,2,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0
+1,9,553,3,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0
+1,9,9553,1,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0
+1,9,9553,2,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0
+1,9,9553,3,Road-Small (car)-Euro 3 (2001-05)-Passenger Transport,1,3,1,0
+1,9,554,1,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
+1,9,554,2,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
+1,9,554,3,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
+1,9,9554,1,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
+1,9,9554,2,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
+1,9,9554,3,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
+1,9,555,1,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0
+1,9,555,2,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0
+1,9,555,3,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0
+1,9,9555,1,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0
+1,9,9555,2,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0
+1,9,9555,3,Road-Small (car)-Euro 5 (2009-14)-Passenger Transport,1,3,1,0
+1,9,556,1,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
+1,9,556,2,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
+1,9,556,3,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
+1,9,9556,1,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
+1,9,9556,2,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
+1,9,9556,3,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
 1,9,520,1,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
 1,9,520,2,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
 1,9,520,3,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
@@ -311,144 +311,144 @@ ScenarioID,CountryID,TechID,JSTypeVSMID,TechDescription,TransTypeID,VehTypeID,Ma
 1,9,9522,1,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
 1,9,9522,2,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
 1,9,9522,3,Road-Small (car)-Euro 6 (2015-19)-Passenger Transport,1,3,1,0
-1,9,302,1,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
-1,9,302,2,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
-1,9,302,3,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
-1,9,9302,1,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
-1,9,9302,2,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
-1,9,9302,3,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
-1,9,460,1,Road-Medium (car)-Euro 4 (2005-09)-Passenger Transport,1,3,2,0
-1,9,460,2,Road-Medium (car)-Euro 4 (2005-09)-Passenger Transport,1,3,2,0
-1,9,460,3,Road-Medium (car)-Euro 4 (2005-09)-Passenger Transport,1,3,2,0
-1,9,9460,1,Road-Medium (car)-Euro 4 (2005-09)-Passenger Transport,1,3,2,0
-1,9,9460,2,Road-Medium (car)-Euro 4 (2005-09)-Passenger Transport,1,3,2,0
-1,9,9460,3,Road-Medium (car)-Euro 4 (2005-09)-Passenger Transport,1,3,2,0
+1,9,620,1,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
+1,9,620,2,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
+1,9,620,3,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
+1,9,9620,1,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
+1,9,9620,2,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
+1,9,9620,3,Road-Small (car)-Euro 4 (2005-09)-Passenger Transport,1,3,1,0
+1,9,302,1,Road-Medium (car)-Euro 4 (2005-09)-Passenger Transport,1,3,2,0
+1,9,302,2,Road-Medium (car)-Euro 4 (2005-09)-Passenger Transport,1,3,2,0
+1,9,302,3,Road-Medium (car)-Euro 4 (2005-09)-Passenger Transport,1,3,2,0
+1,9,9302,1,Road-Medium (car)-Euro 4 (2005-09)-Passenger Transport,1,3,2,0
+1,9,9302,2,Road-Medium (car)-Euro 4 (2005-09)-Passenger Transport,1,3,2,0
+1,9,9302,3,Road-Medium (car)-Euro 4 (2005-09)-Passenger Transport,1,3,2,0
 1,9,362,1,Road-Large (car)-Euro 4 (2005-09)-Passenger Transport,1,3,3,0
 1,9,362,2,Road-Large (car)-Euro 4 (2005-09)-Passenger Transport,1,3,3,0
 1,9,362,3,Road-Large (car)-Euro 4 (2005-09)-Passenger Transport,1,3,3,0
 1,9,9362,1,Road-Large (car)-Euro 4 (2005-09)-Passenger Transport,1,3,3,0
 1,9,9362,2,Road-Large (car)-Euro 4 (2005-09)-Passenger Transport,1,3,3,0
 1,9,9362,3,Road-Large (car)-Euro 4 (2005-09)-Passenger Transport,1,3,3,0
-1,9,1410,1,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,3,11,0.005104757
-1,9,1410,2,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,3,11,0.005104757
-1,9,1410,3,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,3,11,0.002552378
-1,9,10410,1,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,3,11,0.028926955
-1,9,10410,2,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,3,11,0.028926955
-1,9,10410,3,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,3,11,0.014463478
-1,9,1450,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.001276189
-1,9,1450,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.001276189
-1,9,1450,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.000638095
-1,9,10450,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.007231739
-1,9,10450,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.007231739
-1,9,10450,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.003615869
-1,9,1320,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.007933295
-1,9,1320,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.007933295
-1,9,1320,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.003966648
-1,9,10320,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.044955341
-1,9,10320,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.044955341
-1,9,10320,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.02247767
-1,9,5000,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.004007034
-1,9,5000,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.004007034
-1,9,5000,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.002003517
-1,9,14000,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.022706527
-1,9,14000,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.022706527
-1,9,14000,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.011353264
-1,9,5200,1,Road-Large (car)-Euro 1 (1992-96)-Freight Transport,2,5,3,0
-1,9,5200,2,Road-Large (car)-Euro 1 (1992-96)-Freight Transport,2,5,3,0
-1,9,5200,3,Road-Large (car)-Euro 1 (1992-96)-Freight Transport,2,5,3,0
-1,9,14200,1,Road-Large (car)-Euro 1 (1992-96)-Freight Transport,2,5,3,0
-1,9,14200,2,Road-Large (car)-Euro 1 (1992-96)-Freight Transport,2,5,3,0
-1,9,14200,3,Road-Large (car)-Euro 1 (1992-96)-Freight Transport,2,5,3,0
-1,9,1451,1,Road-PanelSideVan (truck)-Euro 2 (1996-2001)-Freight Transport,2,3,21,0.001276189
-1,9,1451,2,Road-PanelSideVan (truck)-Euro 2 (1996-2001)-Freight Transport,2,3,21,0.001276189
-1,9,1451,3,Road-PanelSideVan (truck)-Euro 2 (1996-2001)-Freight Transport,2,3,21,0.000638095
-1,9,10451,1,Road-PanelSideVan (truck)-Euro 2 (1996-2001)-Freight Transport,2,3,21,0.007231739
-1,9,10451,2,Road-PanelSideVan (truck)-Euro 2 (1996-2001)-Freight Transport,2,3,21,0.007231739
-1,9,10451,3,Road-PanelSideVan (truck)-Euro 2 (1996-2001)-Freight Transport,2,3,21,0.003615869
-1,9,1452,1,Road-PanelSideVan (truck)-Euro 3 (2001-05)-Freight Transport,2,3,21,0.001276189
-1,9,1452,2,Road-PanelSideVan (truck)-Euro 3 (2001-05)-Freight Transport,2,3,21,0.001276189
-1,9,1452,3,Road-PanelSideVan (truck)-Euro 3 (2001-05)-Freight Transport,2,3,21,0.000638095
-1,9,10452,1,Road-PanelSideVan (truck)-Euro 3 (2001-05)-Freight Transport,2,3,21,0.007231739
-1,9,10452,2,Road-PanelSideVan (truck)-Euro 3 (2001-05)-Freight Transport,2,3,21,0.007231739
-1,9,10452,3,Road-PanelSideVan (truck)-Euro 3 (2001-05)-Freight Transport,2,3,21,0.003615869
-1,9,1453,1,Road-PanelSideVan (truck)-Euro 4 (2005-09)-Freight Transport,2,3,21,0.001276189
-1,9,1453,2,Road-PanelSideVan (truck)-Euro 4 (2005-09)-Freight Transport,2,3,21,0.001276189
-1,9,1453,3,Road-PanelSideVan (truck)-Euro 4 (2005-09)-Freight Transport,2,3,21,0.000638095
-1,9,10453,1,Road-PanelSideVan (truck)-Euro 4 (2005-09)-Freight Transport,2,3,21,0.007231739
-1,9,10453,2,Road-PanelSideVan (truck)-Euro 4 (2005-09)-Freight Transport,2,3,21,0.007231739
-1,9,10453,3,Road-PanelSideVan (truck)-Euro 4 (2005-09)-Freight Transport,2,3,21,0.003615869
+1,9,640,1,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,3,11,0.005104757
+1,9,640,2,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,3,11,0.005104757
+1,9,640,3,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,3,11,0.002552378
+1,9,670,1,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,3,11,0.028926955
+1,9,670,2,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,3,11,0.028926955
+1,9,670,3,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,3,11,0.014463478
+1,9,1410,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.001276189
+1,9,1410,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.001276189
+1,9,1410,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.000638095
+1,9,1450,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.007231739
+1,9,1450,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.007231739
+1,9,1450,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.003615869
+1,9,1451,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.007933295
+1,9,1451,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.007933295
+1,9,1451,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.003966648
+1,9,1452,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.044955341
+1,9,1452,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.044955341
+1,9,1452,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.02247767
+1,9,1453,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.004007034
+1,9,1453,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.004007034
+1,9,1453,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.002003517
+1,9,1471,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.022706527
+1,9,1471,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.022706527
+1,9,1471,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.011353264
+1,9,191,1,Road-Large (car)-Euro 1 (1992-96)-Freight Transport,2,5,3,0
+1,9,191,2,Road-Large (car)-Euro 1 (1992-96)-Freight Transport,2,5,3,0
+1,9,191,3,Road-Large (car)-Euro 1 (1992-96)-Freight Transport,2,5,3,0
+1,9,192,1,Road-Large (car)-Euro 1 (1992-96)-Freight Transport,2,5,3,0
+1,9,192,2,Road-Large (car)-Euro 1 (1992-96)-Freight Transport,2,5,3,0
+1,9,192,3,Road-Large (car)-Euro 1 (1992-96)-Freight Transport,2,5,3,0
+1,9,1472,1,Road-PanelSideVan (truck)-Euro 2 (1996-2001)-Freight Transport,2,3,21,0.001276189
+1,9,1472,2,Road-PanelSideVan (truck)-Euro 2 (1996-2001)-Freight Transport,2,3,21,0.001276189
+1,9,1472,3,Road-PanelSideVan (truck)-Euro 2 (1996-2001)-Freight Transport,2,3,21,0.000638095
+1,9,1473,1,Road-PanelSideVan (truck)-Euro 2 (1996-2001)-Freight Transport,2,3,21,0.007231739
+1,9,1473,2,Road-PanelSideVan (truck)-Euro 2 (1996-2001)-Freight Transport,2,3,21,0.007231739
+1,9,1473,3,Road-PanelSideVan (truck)-Euro 2 (1996-2001)-Freight Transport,2,3,21,0.003615869
+1,9,1474,1,Road-PanelSideVan (truck)-Euro 3 (2001-05)-Freight Transport,2,3,21,0.001276189
+1,9,1474,2,Road-PanelSideVan (truck)-Euro 3 (2001-05)-Freight Transport,2,3,21,0.001276189
+1,9,1474,3,Road-PanelSideVan (truck)-Euro 3 (2001-05)-Freight Transport,2,3,21,0.000638095
+1,9,1475,1,Road-PanelSideVan (truck)-Euro 3 (2001-05)-Freight Transport,2,3,21,0.007231739
+1,9,1475,2,Road-PanelSideVan (truck)-Euro 3 (2001-05)-Freight Transport,2,3,21,0.007231739
+1,9,1475,3,Road-PanelSideVan (truck)-Euro 3 (2001-05)-Freight Transport,2,3,21,0.003615869
+1,9,1476,1,Road-PanelSideVan (truck)-Euro 4 (2005-09)-Freight Transport,2,3,21,0.001276189
+1,9,1476,2,Road-PanelSideVan (truck)-Euro 4 (2005-09)-Freight Transport,2,3,21,0.001276189
+1,9,1476,3,Road-PanelSideVan (truck)-Euro 4 (2005-09)-Freight Transport,2,3,21,0.000638095
+1,9,1477,1,Road-PanelSideVan (truck)-Euro 4 (2005-09)-Freight Transport,2,3,21,0.007231739
+1,9,1477,2,Road-PanelSideVan (truck)-Euro 4 (2005-09)-Freight Transport,2,3,21,0.007231739
+1,9,1477,3,Road-PanelSideVan (truck)-Euro 4 (2005-09)-Freight Transport,2,3,21,0.003615869
 1,9,1200,1,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,3,21,0.001763072
 1,9,1200,2,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,3,21,0.001763072
 1,9,1200,3,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,3,21,0.000881536
-1,9,10200,1,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,3,21,0.009990739
-1,9,10200,2,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,3,21,0.009990739
-1,9,10200,3,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,3,21,0.004995369
-1,9,1560,1,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.001148539
-1,9,1560,2,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.001148539
-1,9,1560,3,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.00057427
-1,9,10560,1,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.006508388
-1,9,10560,2,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.006508388
-1,9,10560,3,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.003254194
-1,9,1650,1,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.024416698
-1,9,1650,2,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.024416698
-1,9,1650,3,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.012208349
-1,9,10650,1,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.13836129
-1,9,10650,2,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.13836129
-1,9,10650,3,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.069180645
-1,9,5012,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.04694748
-1,9,5012,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.04694748
-1,9,5012,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.02347374
-1,9,14012,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.266035722
-1,9,14012,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.266035722
-1,9,14012,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.133017861
-1,9,5212,1,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.022099119
-1,9,5212,2,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.022099119
-1,9,5212,3,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.011049559
-1,9,14212,1,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.125228339
-1,9,14212,2,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.125228339
-1,9,14212,3,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.062614169
-1,9,1340,1,Road-Mini (bus)-Euro 2 (1996-2001)-Freight Transport,2,3,11,0.001148539
-1,9,1340,2,Road-Mini (bus)-Euro 2 (1996-2001)-Freight Transport,2,3,11,0.001148539
-1,9,1340,3,Road-Mini (bus)-Euro 2 (1996-2001)-Freight Transport,2,3,11,0.00057427
-1,9,10340,1,Road-Mini (bus)-Euro 2 (1996-2001)-Freight Transport,2,3,11,0.006508388
-1,9,10340,2,Road-Mini (bus)-Euro 2 (1996-2001)-Freight Transport,2,3,11,0.006508388
-1,9,10340,3,Road-Mini (bus)-Euro 2 (1996-2001)-Freight Transport,2,3,11,0.003254194
-1,9,1390,1,Road-Mini (bus)-Euro 3 (2001-05)-Freight Transport,2,3,11,0.001148539
-1,9,1390,2,Road-Mini (bus)-Euro 3 (2001-05)-Freight Transport,2,3,11,0.001148539
-1,9,1390,3,Road-Mini (bus)-Euro 3 (2001-05)-Freight Transport,2,3,11,0.00057427
-1,9,10390,1,Road-Mini (bus)-Euro 3 (2001-05)-Freight Transport,2,3,11,0.006508388
-1,9,10390,2,Road-Mini (bus)-Euro 3 (2001-05)-Freight Transport,2,3,11,0.006508388
-1,9,10390,3,Road-Mini (bus)-Euro 3 (2001-05)-Freight Transport,2,3,11,0.003254194
-1,9,1460,1,Road-Mini (bus)-Euro 4 (2005-09)-Freight Transport,2,3,11,0.001148539
-1,9,1460,2,Road-Mini (bus)-Euro 4 (2005-09)-Freight Transport,2,3,11,0.001148539
-1,9,1460,3,Road-Mini (bus)-Euro 4 (2005-09)-Freight Transport,2,3,11,0.00057427
-1,9,10460,1,Road-Mini (bus)-Euro 4 (2005-09)-Freight Transport,2,3,11,0.006508388
-1,9,10460,2,Road-Mini (bus)-Euro 4 (2005-09)-Freight Transport,2,3,11,0.006508388
-1,9,10460,3,Road-Mini (bus)-Euro 4 (2005-09)-Freight Transport,2,3,11,0.003254194
-1,9,1520,1,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,5,11,0.00552478
-1,9,1520,2,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,5,11,0.00552478
-1,9,1520,3,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,5,11,0.044198237
-1,9,10520,1,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,5,11,0.031307085
-1,9,10520,2,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,5,11,0.031307085
-1,9,10520,3,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,5,11,0.250456677
-1,9,1630,1,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,5,21,0.011049559
-1,9,1630,2,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,5,21,0.011049559
-1,9,1630,3,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,5,21,0.088396474
-1,9,10630,1,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,5,21,0.062614169
-1,9,10630,2,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,5,21,0.062614169
-1,9,10630,3,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,5,21,0.500913354
-1,9,1530,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.001806815
-1,9,1530,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.001806815
-1,9,1530,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.014454518
-1,9,10530,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.010238617
-1,9,10530,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.010238617
-1,9,10530,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.081908935
-1,9,5412,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.001806815
-1,9,5412,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.001806815
-1,9,5412,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.014454518
-1,9,14412,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.010238617
-1,9,14412,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.010238617
-1,9,14412,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.081908935
+1,9,1220,1,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,3,21,0.009990739
+1,9,1220,2,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,3,21,0.009990739
+1,9,1220,3,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,3,21,0.004995369
+1,9,630,1,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.001148539
+1,9,630,2,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.001148539
+1,9,630,3,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.00057427
+1,9,690,1,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.006508388
+1,9,690,2,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.006508388
+1,9,690,3,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.003254194
+1,9,695,1,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.024416698
+1,9,695,2,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.024416698
+1,9,695,3,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.012208349
+1,9,696,1,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.13836129
+1,9,696,2,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.13836129
+1,9,696,3,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.069180645
+1,9,1221,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.04694748
+1,9,1221,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.04694748
+1,9,1221,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.02347374
+1,9,1222,1,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.266035722
+1,9,1222,2,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.266035722
+1,9,1222,3,Road-PanelSideVan (truck)-Euro 1 (1992-96)-Freight Transport,2,3,21,0.133017861
+1,9,697,1,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.022099119
+1,9,697,2,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.022099119
+1,9,697,3,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.011049559
+1,9,698,1,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.125228339
+1,9,698,2,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.125228339
+1,9,698,3,Road-Mini (bus)-Euro 1 (1992-96)-Freight Transport,2,3,11,0.062614169
+1,9,699,1,Road-Mini (bus)-Euro 2 (1996-2001)-Freight Transport,2,3,11,0.001148539
+1,9,699,2,Road-Mini (bus)-Euro 2 (1996-2001)-Freight Transport,2,3,11,0.001148539
+1,9,699,3,Road-Mini (bus)-Euro 2 (1996-2001)-Freight Transport,2,3,11,0.00057427
+1,9,700,1,Road-Mini (bus)-Euro 2 (1996-2001)-Freight Transport,2,3,11,0.006508388
+1,9,700,2,Road-Mini (bus)-Euro 2 (1996-2001)-Freight Transport,2,3,11,0.006508388
+1,9,700,3,Road-Mini (bus)-Euro 2 (1996-2001)-Freight Transport,2,3,11,0.003254194
+1,9,701,1,Road-Mini (bus)-Euro 3 (2001-05)-Freight Transport,2,3,11,0.001148539
+1,9,701,2,Road-Mini (bus)-Euro 3 (2001-05)-Freight Transport,2,3,11,0.001148539
+1,9,701,3,Road-Mini (bus)-Euro 3 (2001-05)-Freight Transport,2,3,11,0.00057427
+1,9,702,1,Road-Mini (bus)-Euro 3 (2001-05)-Freight Transport,2,3,11,0.006508388
+1,9,702,2,Road-Mini (bus)-Euro 3 (2001-05)-Freight Transport,2,3,11,0.006508388
+1,9,702,3,Road-Mini (bus)-Euro 3 (2001-05)-Freight Transport,2,3,11,0.003254194
+1,9,720,1,Road-Mini (bus)-Euro 4 (2005-09)-Freight Transport,2,3,11,0.001148539
+1,9,720,2,Road-Mini (bus)-Euro 4 (2005-09)-Freight Transport,2,3,11,0.001148539
+1,9,720,3,Road-Mini (bus)-Euro 4 (2005-09)-Freight Transport,2,3,11,0.00057427
+1,9,810,1,Road-Mini (bus)-Euro 4 (2005-09)-Freight Transport,2,3,11,0.006508388
+1,9,810,2,Road-Mini (bus)-Euro 4 (2005-09)-Freight Transport,2,3,11,0.006508388
+1,9,810,3,Road-Mini (bus)-Euro 4 (2005-09)-Freight Transport,2,3,11,0.003254194
+1,9,675,1,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,5,11,0.00552478
+1,9,675,2,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,5,11,0.00552478
+1,9,675,3,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,5,11,0.044198237
+1,9,9640,1,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,5,11,0.031307085
+1,9,9640,2,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,5,11,0.031307085
+1,9,9640,3,Road-Mini (bus)-Conventional (pre-EURO)-Freight Transport,2,5,11,0.250456677
+1,9,1320,1,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,5,21,0.011049559
+1,9,1320,2,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,5,21,0.011049559
+1,9,1320,3,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,5,21,0.088396474
+1,9,10200,1,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,5,21,0.062614169
+1,9,10200,2,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,5,21,0.062614169
+1,9,10200,3,Road-PanelSideVan (truck)-Conventional (pre-EURO)-Freight Transport,2,5,21,0.500913354
+1,9,1520,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.001806815
+1,9,1520,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.001806815
+1,9,1520,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.014454518
+1,9,10520,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.010238617
+1,9,10520,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.010238617
+1,9,10520,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.081908935
+1,9,1560,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.001806815
+1,9,1560,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.001806815
+1,9,1560,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.014454518
+1,9,10560,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.010238617
+1,9,10560,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.010238617
+1,9,10560,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.081908935
 1,9,1570,1,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.001806815
 1,9,1570,2,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.001806815
 1,9,1570,3,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.014454518
@@ -467,84 +467,84 @@ ScenarioID,CountryID,TechID,JSTypeVSMID,TechDescription,TransTypeID,VehTypeID,Ma
 1,9,10610,1,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.010238617
 1,9,10610,2,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.010238617
 1,9,10610,3,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.081908935
-1,9,1615,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.003105467
-1,9,1615,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.003105467
-1,9,1615,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.024843738
-1,9,10615,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.017597648
-1,9,10615,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.017597648
-1,9,10615,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.140781182
-1,9,5612,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.003105467
-1,9,5612,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.003105467
-1,9,5612,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.024843738
-1,9,14612,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.017597648
-1,9,14612,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.017597648
-1,9,14612,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.140781182
-1,9,1660,1,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.003105467
-1,9,1660,2,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.003105467
-1,9,1660,3,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.024843738
-1,9,10660,1,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.017597648
-1,9,10660,2,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.017597648
-1,9,10660,3,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.140781182
-1,9,5014,1,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.003105467
-1,9,5014,2,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.003105467
-1,9,5014,3,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.024843738
-1,9,14014,1,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.017597648
-1,9,14014,2,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.017597648
-1,9,14014,3,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.140781182
-1,9,1540,1,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.003105467
-1,9,1540,2,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.003105467
-1,9,1540,3,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.024843738
-1,9,10540,1,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.017597648
-1,9,10540,2,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.017597648
-1,9,10540,3,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.140781182
-1,9,1616,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,5.41E-05
-1,9,1616,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,5.41E-05
-1,9,1616,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.000432461
-1,9,10616,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.000306327
-1,9,10616,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.000306327
-1,9,10616,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.002450614
-1,9,5812,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,5.41E-05
-1,9,5812,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,5.41E-05
-1,9,5812,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.000432461
-1,9,14812,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.000306327
-1,9,14812,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.000306327
-1,9,14812,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.002450614
-1,9,5013,1,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,5.41E-05
-1,9,5013,2,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,5.41E-05
-1,9,5013,3,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.000432461
-1,9,14013,1,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.000306327
-1,9,14013,2,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.000306327
-1,9,14013,3,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.002450614
-1,9,5214,1,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,5.41E-05
-1,9,5214,2,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,5.41E-05
-1,9,5214,3,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.000432461
-1,9,14214,1,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.000306327
-1,9,14214,2,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.000306327
-1,9,14214,3,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.002450614
-1,9,1551,1,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,5.41E-05
-1,9,1551,2,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,5.41E-05
-1,9,1551,3,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.000432461
-1,9,10551,1,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.000306327
-1,9,10551,2,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.000306327
-1,9,10551,3,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.002450614
-1,9,1617,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,4.11E-05
-1,9,1617,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,4.11E-05
-1,9,1617,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.000328553
-1,9,10617,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.000232725
-1,9,10617,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.000232725
-1,9,10617,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.001861798
-1,9,1618,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,4.11E-05
-1,9,1618,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,4.11E-05
-1,9,1618,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.000328553
-1,9,10618,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.000232725
-1,9,10618,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.000232725
-1,9,10618,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.001861798
-1,9,5213,1,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,2.23E-05
-1,9,5213,2,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,2.23E-05
-1,9,5213,3,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.000178478
-1,9,14213,1,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.000126422
-1,9,14213,2,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.000126422
-1,9,14213,3,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.001011374
+1,9,1530,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.003105467
+1,9,1530,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.003105467
+1,9,1530,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.024843738
+1,9,10530,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.017597648
+1,9,10530,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.017597648
+1,9,10530,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.140781182
+1,9,1615,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.003105467
+1,9,1615,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.003105467
+1,9,1615,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.024843738
+1,9,10615,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.017597648
+1,9,10615,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.017597648
+1,9,10615,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.140781182
+1,9,1616,1,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.003105467
+1,9,1616,2,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.003105467
+1,9,1616,3,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.024843738
+1,9,10616,1,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.017597648
+1,9,10616,2,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.017597648
+1,9,10616,3,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.140781182
+1,9,1617,1,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.003105467
+1,9,1617,2,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.003105467
+1,9,1617,3,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.024843738
+1,9,10617,1,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.017597648
+1,9,10617,2,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.017597648
+1,9,10617,3,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.140781182
+1,9,1618,1,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.003105467
+1,9,1618,2,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.003105467
+1,9,1618,3,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.024843738
+1,9,10618,1,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.017597648
+1,9,10618,2,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.017597648
+1,9,10618,3,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.140781182
+1,9,1619,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,5.41E-05
+1,9,1619,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,5.41E-05
+1,9,1619,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.000432461
+1,9,10619,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.000306327
+1,9,10619,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.000306327
+1,9,10619,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.002450614
+1,9,1620,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,5.41E-05
+1,9,1620,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,5.41E-05
+1,9,1620,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.000432461
+1,9,10620,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.000306327
+1,9,10620,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.000306327
+1,9,10620,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.002450614
+1,9,1621,1,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,5.41E-05
+1,9,1621,2,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,5.41E-05
+1,9,1621,3,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.000432461
+1,9,10621,1,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.000306327
+1,9,10621,2,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.000306327
+1,9,10621,3,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.002450614
+1,9,1612,1,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,5.41E-05
+1,9,1612,2,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,5.41E-05
+1,9,1612,3,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.000432461
+1,9,10612,1,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.000306327
+1,9,10612,2,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.000306327
+1,9,10612,3,Road-Medium (truck)-Euro 3 (2001-05)-Freight Transport,2,5,22,0.002450614
+1,9,1540,1,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,5.41E-05
+1,9,1540,2,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,5.41E-05
+1,9,1540,3,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.000432461
+1,9,1541,1,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.000306327
+1,9,1541,2,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.000306327
+1,9,1541,3,Road-Medium (truck)-Euro 4 (2005-09)-Freight Transport,2,5,22,0.002450614
+1,9,1542,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,4.11E-05
+1,9,1542,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,4.11E-05
+1,9,1542,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.000328553
+1,9,1543,1,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.000232725
+1,9,1543,2,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.000232725
+1,9,1543,3,Road-Medium (truck)-Conventional (pre-EURO)-Freight Transport,2,5,22,0.001861798
+1,9,1544,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,4.11E-05
+1,9,1544,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,4.11E-05
+1,9,1544,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.000328553
+1,9,1545,1,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.000232725
+1,9,1545,2,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.000232725
+1,9,1545,3,Road-Medium (truck)-Euro 1 (1992-96)-Freight Transport,2,5,22,0.001861798
+1,9,1546,1,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,2.23E-05
+1,9,1546,2,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,2.23E-05
+1,9,1546,3,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.000178478
+1,9,1547,1,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.000126422
+1,9,1547,2,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.000126422
+1,9,1547,3,Road-Medium (truck)-Euro 2 (1996-2001)-Freight Transport,2,5,22,0.001011374
 1,9,1670,1,Road-Heavy (truck)-Euro 3 (2001-05)-Freight Transport,2,5,23,5.69E-06
 1,9,1670,2,Road-Heavy (truck)-Euro 3 (2001-05)-Freight Transport,2,5,23,5.69E-06
 1,9,1670,3,Road-Heavy (truck)-Euro 3 (2001-05)-Freight Transport,2,5,23,4.55E-05
@@ -569,81 +569,81 @@ ScenarioID,CountryID,TechID,JSTypeVSMID,TechDescription,TransTypeID,VehTypeID,Ma
 1,9,10690,1,Road-Heavy (truck)-Euro 6 (2015-19)-Freight Transport,2,5,23,0.042963691
 1,9,10690,2,Road-Heavy (truck)-Euro 6 (2015-19)-Freight Transport,2,5,23,0.042963691
 1,9,10690,3,Road-Heavy (truck)-Euro 6 (2015-19)-Freight Transport,2,5,23,0.343709532
-1,9,1158,1,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0.015998051
-1,9,1158,2,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0.015998051
-1,9,1158,3,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0.007999026
-1,9,9650,1,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0
-1,9,9650,2,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0
-1,9,9650,3,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0
-1,9,1159,1,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0.015998051
-1,9,1159,2,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0.015998051
-1,9,1159,3,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0.007999026
-1,9,1050,1,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0
-1,9,1050,2,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0
-1,9,1050,3,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0
-1,9,1163,1,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0.015998051
-1,9,1163,2,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0.015998051
-1,9,1163,3,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0.007999026
-1,9,1051,1,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0
-1,9,1051,2,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0
-1,9,1051,3,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0
-1,9,1060,1,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0.015998051
-1,9,1060,2,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0.015998051
-1,9,1060,3,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0.007999026
-1,9,9660,1,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0
-1,9,9660,2,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0
-1,9,9660,3,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0
-1,9,1061,1,Road-Coach (bus)-Euro 5 (2009-14)-Passenger Transport,1,4,13,0.015998051
-1,9,1061,2,Road-Coach (bus)-Euro 5 (2009-14)-Passenger Transport,1,4,13,0.015998051
-1,9,1061,3,Road-Coach (bus)-Euro 5 (2009-14)-Passenger Transport,1,4,13,0.007999026
-1,9,9651,1,Road-Coach (bus)-Euro 5 (2009-14)-Passenger Transport,1,4,13,0
-1,9,9651,2,Road-Coach (bus)-Euro 5 (2009-14)-Passenger Transport,1,4,13,0
-1,9,9651,3,Road-Coach (bus)-Euro 5 (2009-14)-Passenger Transport,1,4,13,0
-1,9,1052,1,Road-Coach (bus)-Euro 6 (2015-19)-Passenger Transport,1,4,13,0.015998051
-1,9,1052,2,Road-Coach (bus)-Euro 6 (2015-19)-Passenger Transport,1,4,13,0.015998051
-1,9,1052,3,Road-Coach (bus)-Euro 6 (2015-19)-Passenger Transport,1,4,13,0.007999026
-1,9,9652,1,Road-Coach (bus)-Euro 6 (2015-19)-Passenger Transport,1,4,13,0
-1,9,9652,2,Road-Coach (bus)-Euro 6 (2015-19)-Passenger Transport,1,4,13,0
-1,9,9652,3,Road-Coach (bus)-Euro 6 (2015-19)-Passenger Transport,1,4,13,0
-1,9,630,1,Road-Mini (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,11,0.0265884
-1,9,630,2,Road-Mini (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,11,0.0265884
-1,9,630,3,Road-Mini (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,11,0.0132942
+1,9,1050,1,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0.015998051
+1,9,1050,2,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0.015998051
+1,9,1050,3,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0.007999026
+1,9,1051,1,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0
+1,9,1051,2,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0
+1,9,1051,3,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0
+1,9,1052,1,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0.015998051
+1,9,1052,2,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0.015998051
+1,9,1052,3,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0.007999026
+1,9,1053,1,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0
+1,9,1053,2,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0
+1,9,1053,3,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0
+1,9,1054,1,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0.015998051
+1,9,1054,2,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0.015998051
+1,9,1054,3,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0.007999026
+1,9,1055,1,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0
+1,9,1055,2,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0
+1,9,1055,3,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0
+1,9,1056,1,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0.015998051
+1,9,1056,2,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0.015998051
+1,9,1056,3,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0.007999026
+1,9,1057,1,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0
+1,9,1057,2,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0
+1,9,1057,3,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0
+1,9,1058,1,Road-Coach (bus)-Euro 5 (2009-14)-Passenger Transport,1,4,13,0.015998051
+1,9,1058,2,Road-Coach (bus)-Euro 5 (2009-14)-Passenger Transport,1,4,13,0.015998051
+1,9,1058,3,Road-Coach (bus)-Euro 5 (2009-14)-Passenger Transport,1,4,13,0.007999026
+1,9,1060,1,Road-Coach (bus)-Euro 5 (2009-14)-Passenger Transport,1,4,13,0
+1,9,1060,2,Road-Coach (bus)-Euro 5 (2009-14)-Passenger Transport,1,4,13,0
+1,9,1060,3,Road-Coach (bus)-Euro 5 (2009-14)-Passenger Transport,1,4,13,0
+1,9,1061,1,Road-Coach (bus)-Euro 6 (2015-19)-Passenger Transport,1,4,13,0.015998051
+1,9,1061,2,Road-Coach (bus)-Euro 6 (2015-19)-Passenger Transport,1,4,13,0.015998051
+1,9,1061,3,Road-Coach (bus)-Euro 6 (2015-19)-Passenger Transport,1,4,13,0.007999026
+1,9,1062,1,Road-Coach (bus)-Euro 6 (2015-19)-Passenger Transport,1,4,13,0
+1,9,1062,2,Road-Coach (bus)-Euro 6 (2015-19)-Passenger Transport,1,4,13,0
+1,9,1062,3,Road-Coach (bus)-Euro 6 (2015-19)-Passenger Transport,1,4,13,0
+1,9,850,1,Road-Mini (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,11,0.0265884
+1,9,850,2,Road-Mini (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,11,0.0265884
+1,9,850,3,Road-Mini (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,11,0.0132942
 1,9,9630,1,Road-Mini (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,11,0.1506676
 1,9,9630,2,Road-Mini (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,11,0.1506676
 1,9,9630,3,Road-Mini (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,11,0.0753338
-1,9,970,1,Road-Mini (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,11,0.0265884
-1,9,970,2,Road-Mini (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,11,0.0265884
-1,9,970,3,Road-Mini (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,11,0.0132942
+1,9,9700,1,Road-Mini (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,11,0.0265884
+1,9,9700,2,Road-Mini (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,11,0.0265884
+1,9,9700,3,Road-Mini (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,11,0.0132942
 1,9,9690,1,Road-Mini (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,11,0.1506676
 1,9,9690,2,Road-Mini (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,11,0.1506676
 1,9,9690,3,Road-Mini (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,11,0.0753338
-1,9,720,1,Road-Mini (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,11,0.0265884
-1,9,720,2,Road-Mini (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,11,0.0265884
-1,9,720,3,Road-Mini (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,11,0.0132942
-1,9,9720,1,Road-Mini (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,11,0.1506676
-1,9,9720,2,Road-Mini (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,11,0.1506676
-1,9,9720,3,Road-Mini (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,11,0.0753338
-1,9,810,1,Road-Mini (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,11,0.0265884
-1,9,810,2,Road-Mini (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,11,0.0265884
-1,9,810,3,Road-Mini (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,11,0.0132942
-1,9,9810,1,Road-Mini (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,11,0.1506676
-1,9,9810,2,Road-Mini (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,11,0.1506676
-1,9,9810,3,Road-Mini (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,11,0.0753338
-1,9,850,1,Road-Mini (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,11,0.0265884
-1,9,850,2,Road-Mini (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,11,0.0265884
-1,9,850,3,Road-Mini (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,11,0.0132942
+1,9,9720,1,Road-Mini (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,11,0.0265884
+1,9,9720,2,Road-Mini (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,11,0.0265884
+1,9,9720,3,Road-Mini (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,11,0.0132942
+1,9,9695,1,Road-Mini (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,11,0.1506676
+1,9,9695,2,Road-Mini (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,11,0.1506676
+1,9,9695,3,Road-Mini (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,11,0.0753338
+1,9,9810,1,Road-Mini (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,11,0.0265884
+1,9,9810,2,Road-Mini (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,11,0.0265884
+1,9,9810,3,Road-Mini (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,11,0.0132942
+1,9,9696,1,Road-Mini (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,11,0.1506676
+1,9,9696,2,Road-Mini (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,11,0.1506676
+1,9,9696,3,Road-Mini (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,11,0.0753338
+1,9,852,1,Road-Mini (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,11,0.0265884
+1,9,852,2,Road-Mini (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,11,0.0265884
+1,9,852,3,Road-Mini (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,11,0.0132942
 1,9,9850,1,Road-Mini (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,11,0.1506676
 1,9,9850,2,Road-Mini (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,11,0.1506676
 1,9,9850,3,Road-Mini (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,11,0.0753338
 1,9,870,1,Road-Urban (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,12,0.177256
 1,9,870,2,Road-Urban (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,12,0.177256
 1,9,870,3,Road-Urban (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,12,0.088628
-1,9,9695,1,Road-Urban (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,12,0
-1,9,9695,2,Road-Urban (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,12,0
-1,9,9695,3,Road-Urban (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,12,0
-1,9,890,1,Road-Urban (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,12,0.177256
-1,9,890,2,Road-Urban (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,12,0.177256
-1,9,890,3,Road-Urban (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,12,0.088628
+1,9,890,1,Road-Urban (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,12,0
+1,9,890,2,Road-Urban (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,12,0
+1,9,890,3,Road-Urban (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,12,0
+1,9,970,1,Road-Urban (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,12,0.177256
+1,9,970,2,Road-Urban (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,12,0.177256
+1,9,970,3,Road-Urban (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,12,0.088628
 1,9,1040,1,Road-Urban (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,12,0
 1,9,1040,2,Road-Urban (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,12,0
 1,9,1040,3,Road-Urban (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,12,0
@@ -656,45 +656,45 @@ ScenarioID,CountryID,TechID,JSTypeVSMID,TechDescription,TransTypeID,VehTypeID,Ma
 1,9,1121,1,Road-Urban (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,12,0.177256
 1,9,1121,2,Road-Urban (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,12,0.177256
 1,9,1121,3,Road-Urban (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,12,0.088628
-1,9,14414,1,Road-Urban (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,12,0
-1,9,14414,2,Road-Urban (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,12,0
-1,9,14414,3,Road-Urban (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,12,0
+1,9,1122,1,Road-Urban (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,12,0
+1,9,1122,2,Road-Urban (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,12,0
+1,9,1122,3,Road-Urban (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,12,0
 1,9,1132,1,Road-Urban (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,12,0.177256
 1,9,1132,2,Road-Urban (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,12,0.177256
 1,9,1132,3,Road-Urban (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,12,0.088628
-1,9,9852,1,Road-Urban (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,12,0
-1,9,9852,2,Road-Urban (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,12,0
-1,9,9852,3,Road-Urban (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,12,0
+1,9,1123,1,Road-Urban (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,12,0
+1,9,1123,2,Road-Urban (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,12,0
+1,9,1123,3,Road-Urban (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,12,0
 1,9,1152,1,Road-Coach (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,13,0.015998051
 1,9,1152,2,Road-Coach (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,13,0.015998051
 1,9,1152,3,Road-Coach (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,13,0.007999026
-1,9,9696,1,Road-Coach (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,13,0
-1,9,9696,2,Road-Coach (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,13,0
-1,9,9696,3,Road-Coach (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,13,0
-1,9,1153,1,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0.015998051
-1,9,1153,2,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0.015998051
-1,9,1153,3,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0.007999026
-1,9,9697,1,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0
-1,9,9697,2,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0
-1,9,9697,3,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0
-1,9,1166,1,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0.015998051
-1,9,1166,2,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0.015998051
-1,9,1166,3,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0.007999026
-1,9,9698,1,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0
-1,9,9698,2,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0
-1,9,9698,3,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0
+1,9,1153,1,Road-Coach (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,13,0
+1,9,1153,2,Road-Coach (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,13,0
+1,9,1153,3,Road-Coach (bus)-Conventional (pre-EURO)-Passenger Transport,1,4,13,0
+1,9,1158,1,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0.015998051
+1,9,1158,2,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0.015998051
+1,9,1158,3,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0.007999026
+1,9,1163,1,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0
+1,9,1163,2,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0
+1,9,1163,3,Road-Coach (bus)-Euro 1 (1992-96)-Passenger Transport,1,4,13,0
+1,9,1159,1,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0.015998051
+1,9,1159,2,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0.015998051
+1,9,1159,3,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0.007999026
+1,9,1166,1,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0
+1,9,1166,2,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0
+1,9,1166,3,Road-Coach (bus)-Euro 2 (1996-2001)-Passenger Transport,1,4,13,0
 1,9,1171,1,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0.015998051
 1,9,1171,2,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0.015998051
 1,9,1171,3,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0.007999026
-1,9,14614,1,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0
-1,9,14614,2,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0
-1,9,14614,3,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0
+1,9,1172,1,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0
+1,9,1172,2,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0
+1,9,1172,3,Road-Coach (bus)-Euro 3 (2001-05)-Passenger Transport,1,4,13,0
 1,9,1168,1,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0.015998051
 1,9,1168,2,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0.015998051
 1,9,1168,3,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0.007999026
-1,9,9853,1,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0
-1,9,9853,2,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0
-1,9,9853,3,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0
+1,9,1173,1,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0
+1,9,1173,2,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0
+1,9,1173,3,Road-Coach (bus)-Euro 4 (2005-09)-Passenger Transport,1,4,13,0
 1,9,10,1,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.550753415
 1,9,10,2,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
 1,9,10,3,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.061194824
@@ -704,132 +704,132 @@ ScenarioID,CountryID,TechID,JSTypeVSMID,TechDescription,TransTypeID,VehTypeID,Ma
 1,9,40,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.550753415
 1,9,40,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
 1,9,40,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.061194824
-1,9,14400,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
-1,9,14400,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
-1,9,14400,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
-1,9,20,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.550753415
-1,9,20,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,20,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.061194824
-1,9,14001,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,14001,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,14001,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,5002,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.550753415
-1,9,5002,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,5002,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.061194824
-1,9,14002,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,14002,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,14002,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,25,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.550753415
-1,9,25,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,25,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.061194824
-1,9,14003,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,14003,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,14003,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,26,1,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.550753415
-1,9,26,2,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
-1,9,26,3,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.061194824
-1,9,9082,1,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
-1,9,9082,2,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
-1,9,9082,3,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
-1,9,50,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.550753415
-1,9,50,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
-1,9,50,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.061194824
-1,9,14600,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
-1,9,14600,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
-1,9,14600,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
-1,9,60,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.550753415
-1,9,60,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,60,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.061194824
-1,9,14201,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,14201,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,14201,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,5202,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.550753415
-1,9,5202,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,5202,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.061194824
-1,9,14202,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,14202,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,14202,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,5003,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.550753415
-1,9,5003,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,5003,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.061194824
-1,9,14203,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,14203,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,14203,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,82,1,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.222735892
-1,9,82,2,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.222735892
-1,9,82,3,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.222735892
-1,9,9083,1,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
-1,9,9083,2,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
-1,9,9083,3,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
-1,9,5400,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.222735892
-1,9,5400,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.222735892
-1,9,5400,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.222735892
-1,9,14800,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
-1,9,14800,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
-1,9,14800,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
-1,9,5001,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.222735892
-1,9,5001,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.222735892
-1,9,5001,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.222735892
-1,9,14401,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,14401,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,14401,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,5402,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.222735892
-1,9,5402,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.222735892
-1,9,5402,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.222735892
-1,9,14402,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,14402,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,14402,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,5203,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.222735892
-1,9,5203,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.222735892
-1,9,5203,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.222735892
-1,9,14403,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,14403,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,14403,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,83,1,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.006297742
-1,9,83,2,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.006297742
-1,9,83,3,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.006297742
-1,9,9084,1,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
-1,9,9084,2,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
-1,9,9084,3,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
-1,9,5600,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.006297742
-1,9,5600,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.006297742
-1,9,5600,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.006297742
-1,9,9085,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
-1,9,9085,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
-1,9,9085,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
-1,9,5201,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.006297742
-1,9,5201,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.006297742
-1,9,5201,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.006297742
-1,9,14601,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,14601,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,14601,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,5602,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.006297742
-1,9,5602,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.006297742
-1,9,5602,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.006297742
-1,9,14602,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,14602,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,14602,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,5403,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.006297742
-1,9,5403,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.006297742
-1,9,5403,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.006297742
-1,9,14603,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,14603,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,14603,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,5401,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.006297742
-1,9,5401,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.006297742
-1,9,5401,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.006297742
-1,9,14801,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,14801,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,14801,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
-1,9,5802,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.006297742
-1,9,5802,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.006297742
-1,9,5802,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.006297742
-1,9,14802,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,14802,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,14802,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
-1,9,5603,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.006297742
-1,9,5603,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.006297742
-1,9,5603,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.006297742
-1,9,14803,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,14803,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
-1,9,14803,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,20,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
+1,9,20,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
+1,9,20,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
+1,9,25,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.550753415
+1,9,25,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,25,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.061194824
+1,9,26,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,26,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,26,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,50,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.550753415
+1,9,50,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,50,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.061194824
+1,9,60,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,60,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,60,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.550753415
+1,9,10,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.061194824
+1,9,10,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.550753415
+1,9,10,2,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.061194824
+1,9,10,1,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.550753415
+1,9,10,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.061194824
+1,9,10,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.550753415
+1,9,10,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.061194824
+1,9,10,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.550753415
+1,9,10,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.061194824
+1,9,10,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.550753415
+1,9,10,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.061194824
+1,9,10,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.222735892
+1,9,10,2,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.222735892
+1,9,10,3,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.222735892
+1,9,10,1,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.222735892
+1,9,10,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.222735892
+1,9,10,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.222735892
+1,9,10,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.222735892
+1,9,10,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.222735892
+1,9,10,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.222735892
+1,9,10,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.222735892
+1,9,10,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.222735892
+1,9,10,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.222735892
+1,9,10,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.222735892
+1,9,10,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.222735892
+1,9,10,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.222735892
+1,9,10,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.006297742
+1,9,10,2,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.006297742
+1,9,10,3,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0.006297742
+1,9,10,1,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Conventional (pre-EURO)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.006297742
+1,9,10,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.006297742
+1,9,10,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0.006297742
+1,9,10,1,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 1 (1992-96)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.006297742
+1,9,10,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.006297742
+1,9,10,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.006297742
+1,9,10,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.006297742
+1,9,10,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.006297742
+1,9,10,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.006297742
+1,9,10,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.006297742
+1,9,10,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.006297742
+1,9,10,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.006297742
+1,9,10,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.006297742
+1,9,10,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.006297742
+1,9,10,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0.006297742
+1,9,10,1,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 2 (1996-2001)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.006297742
+1,9,10,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.006297742
+1,9,10,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0.006297742
+1,9,10,1,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 3 (2001-05)-Passenger Transport,1,2,4,0
+1,9,10,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.006297742
+1,9,10,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.006297742
+1,9,10,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0.006297742
+1,9,10,1,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,2,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
+1,9,10,3,Road-Average moto-Euro 4 (2005-09)-Passenger Transport,1,2,4,0
