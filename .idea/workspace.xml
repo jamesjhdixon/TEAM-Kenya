@@ -5,32 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ada9abe3-6528-4a03-8a54-6633c42f154e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/base-case-kenya-data/FuelPrice-kenyavalues.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/base-case-kenya-data/FuelPrice.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byfuel.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byveh-electricdreams.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byveh-kujinao.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byveh-omoka.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byveh-streetfighting.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/vehkm-byfuel.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/vehstock-byfuel.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/original-team-uk-data/Policy_Step1_FuelTax.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios-out/VEEMEIM_QFELECTRICDREAMS.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios-out/VEEMEIM_QFKUJINAO.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios-out/VEEMEIM_QFOMOKA.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios-out/VEEMEIM_QFSTREETFIGHTING.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/Vehicle-stock.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/Vehicle-stock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/data/gdp-gr.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/emissions-intensity.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/fiscal_position.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/fuel-sales-tax-by-fuel.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/fuel-sales-tax.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/fuel_taxation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/ghg-emissions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/ghg-emissions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/ghg-intensity.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/old/ED - ELECTRICDREAMS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/old/ED - KUJINAO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/old/ED - OMOKA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/old/ED - STREETFIGHTING.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/old/ET - OMOKA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/old/ET - STREETFIGHTING.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/old/plot_emissions_data.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/old/plot_vehicle_fleet_data.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/subsidy-costs.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/taxation_vehicle_and_fuel_sales-separatelines.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/taxation_vehicle_and_fuel_sales.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/vehicle-km.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/vehicle-km.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/vehicle-sales-tax.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/vehicle-stock.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenarios/PolicyStep1_FuelTax_translatefueltaxes.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxELECTRICDREAMS.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxELECTRICDREAMS.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxKUJINAO.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxKUJINAO.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxOMOKA.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxOMOKA.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxSTREETFIGHTING.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxSTREETFIGHTING.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_diary.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_diary.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/transport-demand/enter_pkm_tkm_in_parameters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/transport-demand/enter_pkm_tkm_in_parameters.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/transport-demand/enter_travel_demand.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/transport-demand/enter_travel_demand.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/vehicle-fleet/giz/2021_GIZ_TrIGGER_Kenya.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/vehicle-fleet/giz/2021_GIZ_TrIGGER_Kenya.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/PolicyStep1_TechnologyTax_translate_techsubsidies_to_technology.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/PolicyStep1_TechnologyTax_translate_techsubsidies_to_technology.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/ED.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/ED.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/ET.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/ET.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/Interface_VSM_NumVeh.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/Interface_VSM_NumVeh.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/Interface_VSM_VehKM.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/Interface_VSM_VehKM.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/KUJINAO/ED.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/KUJINAO/ED.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/KUJINAO/ET.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/KUJINAO/ET.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/KUJINAO/Interface_VSM_NumVeh.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/KUJINAO/Interface_VSM_NumVeh.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/KUJINAO/Interface_VSM_VehKM.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/KUJINAO/Interface_VSM_VehKM.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/OMOKA/ED.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/OMOKA/ED.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/OMOKA/ET.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/OMOKA/ET.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/OMOKA/Interface_VSM_NumVeh.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/OMOKA/Interface_VSM_NumVeh.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/OMOKA/Interface_VSM_VehKM.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/OMOKA/Interface_VSM_VehKM.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/STREETFIGHTING/ED.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/STREETFIGHTING/ED.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/STREETFIGHTING/ET.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/STREETFIGHTING/ET.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/STREETFIGHTING/Interface_VSM_NumVeh.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/STREETFIGHTING/Interface_VSM_NumVeh.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/STREETFIGHTING/Interface_VSM_VehKM.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/STREETFIGHTING/Interface_VSM_VehKM.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/ED - ELECTRICDREAMS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/ED - KUJINAO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/ED - OMOKA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/ED - STREETFIGHTING.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/ET - OMOKA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/ET - STREETFIGHTING.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plot_emissions_data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/plot_vehicle_fleet_data.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,27 +87,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ekb15182/LocalCodeFolder/TEAM-Kenya/scenarios&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;pyconsole&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ekb15182/LocalCodeFolder/TEAM-Kenya/plots",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "pyconsole",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ekb15182\LocalCodeFolder\TEAM-Kenya\plots" />
       <recent name="C:\Users\ekb15182\LocalCodeFolder\TEAM-Kenya\scenarios" />
       <recent name="C:\Users\cenv0795\OneDrive - Nexus365\Code\CCG\TEAM-Kenya\scenarios" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ekb15182\LocalCodeFolder\TEAM-Kenya\plots" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -105,6 +135,7 @@
       <workItem from="1691494050803" duration="44959000" />
       <workItem from="1692006860131" duration="16137000" />
       <workItem from="1693553631504" duration="1266000" />
+      <workItem from="1693929382998" duration="39812000" />
     </task>
     <servers />
   </component>
