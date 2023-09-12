@@ -5,27 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ada9abe3-6528-4a03-8a54-6633c42f154e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/plots/data/New Microsoft Excel Worksheet.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plots/data/fuel.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector-kWh.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector-totalMJ.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector-totalPJ.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plots/mode-shares-from-vkm-OMOKA.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plots/mode-shares.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/mode-shares-data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/mode-shares-from-vkm-ELECTRICDREAMS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/mode-shares-from-vkm-KUJINAO.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/mode-shares-from-vkm-STREETFIGHTING.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/emissions-intensity.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/emissions-intensity.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/energy-consumption-by-vector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/energy-consumption-by-vector.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/fiscal_position.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/fiscal_position.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/fuel-sales-tax-by-fuel.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/fuel-sales-tax-by-fuel.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/fuel-sales-tax.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/fuel-sales-tax.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/fuel_taxation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/fuel_taxation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/ghg-intensity.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/ghg-intensity.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/subsidy-costs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/subsidy-costs.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/taxation_vehicle_and_fuel_sales-separatelines.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/taxation_vehicle_and_fuel_sales-separatelines.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/taxation_vehicle_and_fuel_sales.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/taxation_vehicle_and_fuel_sales.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/vehicle-sales-tax.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/vehicle-sales-tax.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/mode-shares-from-vkm-OMOKA.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/mode-shares-from-vkm-OMOKA.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/mode-shares.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/mode-shares.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +95,7 @@
       <workItem from="1692006860131" duration="16137000" />
       <workItem from="1693553631504" duration="1266000" />
       <workItem from="1693929382998" duration="40427000" />
-      <workItem from="1694420407332" duration="9832000" />
+      <workItem from="1694420407332" duration="10911000" />
     </task>
     <servers />
   </component>
