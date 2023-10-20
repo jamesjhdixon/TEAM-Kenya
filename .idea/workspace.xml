@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ada9abe3-6528-4a03-8a54-6633c42f154e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/Scen_VanTypes_change_supply_penalty_of_trucks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/Scen_VanTypes_change_supply_penalty_of_trucks.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="ada9abe3-6528-4a03-8a54-6633c42f154e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +85,7 @@
       <workItem from="1693929382998" duration="40427000" />
       <workItem from="1694420407332" duration="11545000" />
       <workItem from="1697726178670" duration="2394000" />
-      <workItem from="1697786700031" duration="868000" />
+      <workItem from="1697786700031" duration="1287000" />
     </task>
     <servers />
   </component>
