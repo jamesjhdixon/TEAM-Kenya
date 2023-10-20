@@ -1,0 +1,193 @@
+﻿Year,Scenario,MSMode,Value
+2015,"Omoka (""Growth"")",walk,312.819231
+2015,"Omoka (""Growth"")",bicycle,28.43811143
+2015,"Omoka (""Growth"")",car/van driver,91.52735123
+2015,"Omoka (""Growth"")",car/van passenger,42.24339272
+2015,"Omoka (""Growth"")",motorcycle + e-bike,107.2401185
+2015,"Omoka (""Growth"")",local bus,411.8691674
+2015,"Omoka (""Growth"")",coach,86.38076366
+2015,"Omoka (""Growth"")",rail (surface),1.606753304
+2015,"Omoka (""Growth"")",other private (+car clubs),2.816226227
+2015,"Omoka (""Growth"")",taxi + Uber,4.224339208
+2015,"Omoka (""Growth"")",air,6.997197291
+2015,"Omoka (""Growth"")",other public + underground,0.014219056
+2030,"Omoka (""Growth"")",walk,223.8524284
+2030,"Omoka (""Growth"")",bicycle,41.10528649
+2030,"Omoka (""Growth"")",car/van driver,89.00620198
+2030,"Omoka (""Growth"")",car/van passenger,41.41731238
+2030,"Omoka (""Growth"")",motorcycle + e-bike,127.7675719
+2030,"Omoka (""Growth"")",local bus,452.5225267
+2030,"Omoka (""Growth"")",coach,88.28511761
+2030,"Omoka (""Growth"")",rail (surface),13.34363275
+2030,"Omoka (""Growth"")",other private (+car clubs),3.389736621
+2030,"Omoka (""Growth"")",taxi + Uber,9.153059979
+2030,"Omoka (""Growth"")",air,6.319780013
+2030,"Omoka (""Growth"")",other public + underground,0.014219056
+2040,"Omoka (""Growth"")",walk,180.0000525
+2040,"Omoka (""Growth"")",bicycle,43.55702771
+2040,"Omoka (""Growth"")",car/van driver,88.15522408
+2040,"Omoka (""Growth"")",car/van passenger,42.66707921
+2040,"Omoka (""Growth"")",motorcycle + e-bike,130.6771349
+2040,"Omoka (""Growth"")",local bus,443.7235827
+2040,"Omoka (""Growth"")",coach,90.35298072
+2040,"Omoka (""Growth"")",rail (surface),21.52515321
+2040,"Omoka (""Growth"")",other private (+car clubs),3.542180849
+2040,"Omoka (""Growth"")",taxi + Uber,9.60557713
+2040,"Omoka (""Growth"")",air,5.981071135
+2040,"Omoka (""Growth"")",other public + underground,36.38979399
+2050,"Omoka (""Growth"")",walk,136.1476958
+2050,"Omoka (""Growth"")",bicycle,46.0087669
+2050,"Omoka (""Growth"")",car/van driver,87.30424571
+2050,"Omoka (""Growth"")",car/van passenger,43.91684675
+2050,"Omoka (""Growth"")",motorcycle + e-bike,133.586698
+2050,"Omoka (""Growth"")",local bus,434.9246597
+2050,"Omoka (""Growth"")",coach,92.42084466
+2050,"Omoka (""Growth"")",rail (surface),29.7066751
+2050,"Omoka (""Growth"")",other private (+car clubs),3.694625212
+2050,"Omoka (""Growth"")",taxi + Uber,10.05809344
+2050,"Omoka (""Growth"")",air,5.642362735
+2050,"Omoka (""Growth"")",other public + underground,72.76536905
+2015,Electric Dreams,walk,312.819231
+2015,Electric Dreams,bicycle,28.43811143
+2015,Electric Dreams,car/van driver,91.52735123
+2015,Electric Dreams,car/van passenger,42.24339272
+2015,Electric Dreams,motorcycle + e-bike,107.2401185
+2015,Electric Dreams,local bus,411.8691674
+2015,Electric Dreams,coach,86.38076366
+2015,Electric Dreams,rail (surface),1.606753304
+2015,Electric Dreams,other private (+car clubs),2.816226227
+2015,Electric Dreams,taxi + Uber,4.224339208
+2015,Electric Dreams,air,6.997197291
+2015,Electric Dreams,other public + underground,0.014219056
+2030,Electric Dreams,walk,203.7237091
+2030,Electric Dreams,bicycle,30.04138339
+2030,Electric Dreams,car/van driver,137.6846423
+2030,Electric Dreams,car/van passenger,67.95227063
+2030,Electric Dreams,motorcycle + e-bike,209.9260187
+2030,Electric Dreams,local bus,338.6889999
+2030,Electric Dreams,coach,86.38076366
+2030,Electric Dreams,rail (surface),1.606753304
+2030,Electric Dreams,other private (+car clubs),2.779809816
+2030,Electric Dreams,taxi + Uber,10.38110882
+2030,Electric Dreams,air,6.997197291
+2030,Electric Dreams,other public + underground,0.014219056
+2040,Electric Dreams,walk,158.9577317
+2040,Electric Dreams,bicycle,30.67103732
+2040,Electric Dreams,car/van driver,159.7231655
+2040,Electric Dreams,car/van passenger,74.13277829
+2040,Electric Dreams,motorcycle + e-bike,249.7972889
+2040,Electric Dreams,local bus,291.2617205
+2040,Electric Dreams,coach,86.38076366
+2040,Electric Dreams,rail (surface),1.606753304
+2040,Electric Dreams,other private (+car clubs),2.774207292
+2040,Electric Dreams,taxi + Uber,9.614111096
+2040,Electric Dreams,air,12.6257055
+2040,Electric Dreams,other public + underground,18.63158783
+2050,Electric Dreams,walk,114.1917691
+2050,Electric Dreams,bicycle,31.30069078
+2050,Electric Dreams,car/van driver,181.7616949
+2050,Electric Dreams,car/van passenger,80.31328726
+2050,Electric Dreams,motorcycle + e-bike,289.6685696
+2050,Electric Dreams,local bus,243.8344544
+2050,Electric Dreams,coach,86.38076366
+2050,Electric Dreams,rail (surface),1.606753304
+2050,Electric Dreams,other private (+car clubs),2.768604754
+2050,Electric Dreams,taxi + Uber,8.847112849
+2050,Electric Dreams,air,18.25421359
+2050,Electric Dreams,other public + underground,37.24895605
+2015,"Kujinao (""Know yourself"")",walk,312.819231
+2015,"Kujinao (""Know yourself"")",bicycle,28.43811143
+2015,"Kujinao (""Know yourself"")",car/van driver,91.52735123
+2015,"Kujinao (""Know yourself"")",car/van passenger,42.24339272
+2015,"Kujinao (""Know yourself"")",motorcycle + e-bike,107.2401185
+2015,"Kujinao (""Know yourself"")",local bus,411.8691674
+2015,"Kujinao (""Know yourself"")",coach,86.38076366
+2015,"Kujinao (""Know yourself"")",rail (surface),1.606753304
+2015,"Kujinao (""Know yourself"")",other private (+car clubs),2.816226227
+2015,"Kujinao (""Know yourself"")",taxi + Uber,4.224339208
+2015,"Kujinao (""Know yourself"")",air,6.997197291
+2015,"Kujinao (""Know yourself"")",other public + underground,0.014219056
+2030,"Kujinao (""Know yourself"")",walk,241.4659433
+2030,"Kujinao (""Know yourself"")",bicycle,38.22687645
+2030,"Kujinao (""Know yourself"")",car/van driver,87.91140771
+2030,"Kujinao (""Know yourself"")",car/van passenger,42.96186125
+2030,"Kujinao (""Know yourself"")",motorcycle + e-bike,127.3353562
+2030,"Kujinao (""Know yourself"")",local bus,440.6404595
+2030,"Kujinao (""Know yourself"")",coach,87.65033291
+2030,"Kujinao (""Know yourself"")",rail (surface),10.87440776
+2030,"Kujinao (""Know yourself"")",other private (+car clubs),3.216282887
+2030,"Kujinao (""Know yourself"")",taxi + Uber,9.153499888
+2030,"Kujinao (""Know yourself"")",air,6.726230285
+2030,"Kujinao (""Know yourself"")",other public + underground,0.014219056
+2040,"Kujinao (""Know yourself"")",walk,210.7143617
+2040,"Kujinao (""Know yourself"")",bicycle,40.76035572
+2040,"Kujinao (""Know yourself"")",car/van driver,89.30310655
+2040,"Kujinao (""Know yourself"")",car/van passenger,44.71311116
+2040,"Kujinao (""Know yourself"")",motorcycle + e-bike,136.0187945
+2040,"Kujinao (""Know yourself"")",local bus,427.4872823
+2040,"Kujinao (""Know yourself"")",coach,88.28511761
+2040,"Kujinao (""Know yourself"")",rail (surface),15.54939084
+2040,"Kujinao (""Know yourself"")",other private (+car clubs),3.414910583
+2040,"Kujinao (""Know yourself"")",taxi + Uber,8.687861416
+2040,"Kujinao (""Know yourself"")",air,6.489134452
+2040,"Kujinao (""Know yourself"")",other public + underground,24.75344383
+2050,"Kujinao (""Know yourself"")",walk,179.9627786
+2050,"Kujinao (""Know yourself"")",bicycle,43.29383314
+2050,"Kujinao (""Know yourself"")",car/van driver,90.69480157
+2050,"Kujinao (""Know yourself"")",car/van passenger,46.46436191
+2050,"Kujinao (""Know yourself"")",motorcycle + e-bike,144.7022381
+2050,"Kujinao (""Know yourself"")",local bus,414.3341136
+2050,"Kujinao (""Know yourself"")",coach,88.91990171
+2050,"Kujinao (""Know yourself"")",rail (surface),20.22437435
+2050,"Kujinao (""Know yourself"")",other private (+car clubs),3.613538263
+2050,"Kujinao (""Know yourself"")",taxi + Uber,8.222221974
+2050,"Kujinao (""Know yourself"")",air,6.252038142
+2050,"Kujinao (""Know yourself"")",other public + underground,49.49266827
+2015,Streetfighting,walk,312.819231
+2015,Streetfighting,bicycle,28.43811143
+2015,Streetfighting,car/van driver,91.52735123
+2015,Streetfighting,car/van passenger,42.24339272
+2015,Streetfighting,motorcycle + e-bike,107.2401185
+2015,Streetfighting,local bus,411.8691674
+2015,Streetfighting,coach,86.38076366
+2015,Streetfighting,rail (surface),1.606753304
+2015,Streetfighting,other private (+car clubs),2.816226227
+2015,Streetfighting,taxi + Uber,4.224339208
+2015,Streetfighting,air,6.997197291
+2015,Streetfighting,other public + underground,0.014219056
+2030,Streetfighting,walk,312.819231
+2030,Streetfighting,bicycle,28.43811143
+2030,Streetfighting,car/van driver,91.52735123
+2030,Streetfighting,car/van passenger,42.24339272
+2030,Streetfighting,motorcycle + e-bike,107.2401185
+2030,Streetfighting,local bus,411.8691674
+2030,Streetfighting,coach,86.38076366
+2030,Streetfighting,rail (surface),1.606753304
+2030,Streetfighting,other private (+car clubs),2.816226227
+2030,Streetfighting,taxi + Uber,4.224339208
+2030,Streetfighting,air,6.997197291
+2030,Streetfighting,other public + underground,0.014219056
+2040,Streetfighting,walk,312.819231
+2040,Streetfighting,bicycle,28.43811143
+2040,Streetfighting,car/van driver,91.52735123
+2040,Streetfighting,car/van passenger,42.24339272
+2040,Streetfighting,motorcycle + e-bike,107.2401185
+2040,Streetfighting,local bus,411.8691674
+2040,Streetfighting,coach,86.38076366
+2040,Streetfighting,rail (surface),1.606753304
+2040,Streetfighting,other private (+car clubs),2.816226227
+2040,Streetfighting,taxi + Uber,4.224339208
+2040,Streetfighting,air,6.997197291
+2040,Streetfighting,other public + underground,0.014219056
+2050,Streetfighting,walk,312.819231
+2050,Streetfighting,bicycle,28.43811143
+2050,Streetfighting,car/van driver,91.52735123
+2050,Streetfighting,car/van passenger,42.24339272
+2050,Streetfighting,motorcycle + e-bike,107.2401185
+2050,Streetfighting,local bus,411.8691674
+2050,Streetfighting,coach,86.38076366
+2050,Streetfighting,rail (surface),1.606753304
+2050,Streetfighting,other private (+car clubs),2.816226227
+2050,Streetfighting,taxi + Uber,4.224339208
+2050,Streetfighting,air,6.997197291
+2050,Streetfighting,other public + underground,0.014219056
