@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ada9abe3-6528-4a03-8a54-6633c42f154e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/TEAM-Kenya.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TEAM-Kenya.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/csv/energy-consumption-by-vector.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plots/csv/energy-consumption-by-vector.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/energy-consumption-by-vector-kWh.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector-kWh.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/energy-consumption-by-vector-totalPJ.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector-totalPJ.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/energy-consumption-by-vector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/energy-consumption-by-vector.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/total-pj-consumption.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/total-pj-consumption.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/VEEMEIM_QF.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/VEEMEIM_QF.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/vehicle-km.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/vehicle-km.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/vehicle-km.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/vehicle-km.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +96,7 @@
       <workItem from="1694420407332" duration="11545000" />
       <workItem from="1697726178670" duration="2394000" />
       <workItem from="1697786700031" duration="1287000" />
+      <workItem from="1698315629862" duration="781000" />
     </task>
     <servers />
   </component>
