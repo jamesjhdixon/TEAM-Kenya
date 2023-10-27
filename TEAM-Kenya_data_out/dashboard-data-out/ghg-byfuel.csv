@@ -1,281 +1,227 @@
 Year,Scenario,Tech.VehType,Tech.Fuel,Value
-2015,"Omoka (""Growth"")",Motorcycle,Gasoline,3.337858226
-2015,"Omoka (""Growth"")",Car,Gasoline,2.477535479
-2015,"Omoka (""Growth"")",Car,Diesel,1.348820441
-2015,"Omoka (""Growth"")",Bus,Diesel,5.339176901
-2015,"Omoka (""Growth"")",Bus,Gasoline,0.038826559
-2015,"Omoka (""Growth"")",Bus,Bioethanol(85)-petrol(15) blend,2.9911E-05
-2015,"Omoka (""Growth"")",Bus,Compressed Natural Gas,0.03468825
-2015,"Omoka (""Growth"")",Bus,Liquified Petroleum Gas,0.038941613
-2015,"Omoka (""Growth"")",Bus,"Biodiesel (FT, synthetic)",0.003811932
-2015,"Omoka (""Growth"")",Truck,Diesel,3.955604954
-2015,"Omoka (""Growth"")",Truck,Compressed Natural Gas,0.022955241
-2015,"Omoka (""Growth"")",Truck,Liquified Petroleum Gas,0.017864179
-2015,"Omoka (""Growth"")",Truck,Gasoline,0.605434344
-2015,"Omoka (""Growth"")",Truck,"Biodiesel (FT, synthetic)",0.016522845
-2015,"Omoka (""Growth"")",Truck,Bioethanol(85)-petrol(15) blend,0.007033933
-2015,"Omoka (""Growth"")",Train,Diesel,0.115392691
-2015,"Omoka (""Growth"")",Ship,Diesel,1.993913775
-2015,"Omoka (""Growth"")",Aeroplane,Aviation fuel (Jet A-1),0.653849644
-2030,"Omoka (""Growth"")",Motorcycle,Gasoline,1.138989845
-2030,"Omoka (""Growth"")",Car,Gasoline,2.644684821
-2030,"Omoka (""Growth"")",Car,Diesel,1.888773922
-2030,"Omoka (""Growth"")",Bus,Diesel,2.267567126
-2030,"Omoka (""Growth"")",Bus,Gasoline,0.039170495
-2030,"Omoka (""Growth"")",Bus,Bioethanol(85)-petrol(15) blend,0.0003761
-2030,"Omoka (""Growth"")",Bus,Compressed Natural Gas,0.003403483
-2030,"Omoka (""Growth"")",Bus,Liquified Petroleum Gas,0.003689067
-2030,"Omoka (""Growth"")",Bus,"Biodiesel (FT, synthetic)",0.001867541
-2030,"Omoka (""Growth"")",Truck,Diesel,3.245988549
-2030,"Omoka (""Growth"")",Truck,Compressed Natural Gas,0.276650164
-2030,"Omoka (""Growth"")",Truck,Liquified Petroleum Gas,0.328890057
-2030,"Omoka (""Growth"")",Truck,Gasoline,0.902462067
-2030,"Omoka (""Growth"")",Truck,"Biodiesel (FT, synthetic)",0.337826992
-2030,"Omoka (""Growth"")",Truck,Bioethanol(85)-petrol(15) blend,0.121134787
-2030,"Omoka (""Growth"")",Train,Diesel,0.070586138
-2030,"Omoka (""Growth"")",Ship,Diesel,2.038264144
-2030,"Omoka (""Growth"")",Aeroplane,Aviation fuel (Jet A-1),0.764442186
-2040,"Omoka (""Growth"")",Motorcycle,Gasoline,0.081723311
-2040,"Omoka (""Growth"")",Car,Gasoline,1.669795162
-2040,"Omoka (""Growth"")",Car,Diesel,1.157751417
-2040,"Omoka (""Growth"")",Bus,Gasoline,0.004942736
-2040,"Omoka (""Growth"")",Bus,Diesel,0.142785333
-2040,"Omoka (""Growth"")",Bus,Bioethanol(85)-petrol(15) blend,6.60739E-05
-2040,"Omoka (""Growth"")",Bus,Compressed Natural Gas,2.72E-08
-2040,"Omoka (""Growth"")",Bus,Liquified Petroleum Gas,5.03E-09
-2040,"Omoka (""Growth"")",Bus,"Biodiesel (FT, synthetic)",9.499E-05
-2040,"Omoka (""Growth"")",Truck,Diesel,2.390747139
-2040,"Omoka (""Growth"")",Truck,Compressed Natural Gas,0.796659203
-2040,"Omoka (""Growth"")",Truck,Liquified Petroleum Gas,0.958690495
-2040,"Omoka (""Growth"")",Truck,Gasoline,0.665401947
-2040,"Omoka (""Growth"")",Truck,"Biodiesel (FT, synthetic)",0.942247925
-2040,"Omoka (""Growth"")",Truck,Bioethanol(85)-petrol(15) blend,0.361678103
-2040,"Omoka (""Growth"")",Train,Diesel,0.062538685
-2040,"Omoka (""Growth"")",Ship,Diesel,2.076101316
-2040,"Omoka (""Growth"")",Aeroplane,Aviation fuel (Jet A-1),0.813435246
-2050,"Omoka (""Growth"")",Motorcycle,Gasoline,0.011124524
-2050,"Omoka (""Growth"")",Car,Gasoline,0.991649397
-2050,"Omoka (""Growth"")",Car,Diesel,0.674942393
-2050,"Omoka (""Growth"")",Bus,Diesel,0.013091514
-2050,"Omoka (""Growth"")",Bus,"Biodiesel (FT, synthetic)",8.76735E-06
-2050,"Omoka (""Growth"")",Truck,Diesel,2.347446031
-2050,"Omoka (""Growth"")",Truck,Compressed Natural Gas,1.090885582
-2050,"Omoka (""Growth"")",Truck,Liquified Petroleum Gas,1.33335345
-2050,"Omoka (""Growth"")",Truck,Gasoline,0.633339835
-2050,"Omoka (""Growth"")",Truck,"Biodiesel (FT, synthetic)",1.375971429
-2050,"Omoka (""Growth"")",Truck,Bioethanol(85)-petrol(15) blend,0.510429888
-2050,"Omoka (""Growth"")",Train,Diesel,0.013585337
-2050,"Omoka (""Growth"")",Ship,Diesel,2.092186825
-2050,"Omoka (""Growth"")",Aeroplane,Aviation fuel (Jet A-1),0.786394284
-2050,"Omoka (""Growth"")",Bus,Gasoline,7.28287E-05
-2050,"Omoka (""Growth"")",Bus,Bioethanol(85)-petrol(15) blend,6.51E-07
-2015,Electric Dreams,Motorcycle,Gasoline,3.31913778
-2015,Electric Dreams,Car,Gasoline,2.476538766
-2015,Electric Dreams,Car,Diesel,1.349389652
-2015,Electric Dreams,Bus,Diesel,5.346508571
-2015,Electric Dreams,Bus,Gasoline,0.038824812
-2015,Electric Dreams,Bus,Bioethanol(85)-petrol(15) blend,2.99227E-05
-2015,Electric Dreams,Bus,Compressed Natural Gas,0.034693505
-2015,Electric Dreams,Bus,Liquified Petroleum Gas,0.038940387
-2015,Electric Dreams,Bus,"Biodiesel (FT, synthetic)",0.003829617
-2015,Electric Dreams,Truck,Diesel,3.937963129
-2015,Electric Dreams,Truck,Compressed Natural Gas,0.022735856
-2015,Electric Dreams,Truck,Liquified Petroleum Gas,0.017627731
-2015,Electric Dreams,Truck,Gasoline,0.600545832
-2015,Electric Dreams,Truck,"Biodiesel (FT, synthetic)",0.016310215
-2015,Electric Dreams,Truck,Bioethanol(85)-petrol(15) blend,0.006955734
-2015,Electric Dreams,Train,Diesel,0.114677183
-2015,Electric Dreams,Ship,Diesel,1.995499862
-2015,Electric Dreams,Aeroplane,Aviation fuel (Jet A-1),0.652327142
-2030,Electric Dreams,Motorcycle,Gasoline,0.868185164
-2030,Electric Dreams,Car,Gasoline,3.604350506
-2030,Electric Dreams,Car,Diesel,2.764534829
-2030,Electric Dreams,Bus,Diesel,3.302789383
-2030,Electric Dreams,Bus,Gasoline,0.039344439
-2030,Electric Dreams,Bus,Bioethanol(85)-petrol(15) blend,0.000423638
-2030,Electric Dreams,Bus,Compressed Natural Gas,0.003663458
-2030,Electric Dreams,Bus,Liquified Petroleum Gas,0.003999289
-2030,Electric Dreams,Bus,"Biodiesel (FT, synthetic)",0.002470074
-2030,Electric Dreams,Truck,Diesel,2.993301221
-2030,Electric Dreams,Truck,Compressed Natural Gas,0.29158223
-2030,Electric Dreams,Truck,Liquified Petroleum Gas,0.34675442
-2030,Electric Dreams,Truck,Gasoline,0.832529495
-2030,Electric Dreams,Truck,"Biodiesel (FT, synthetic)",0.356986486
-2030,Electric Dreams,Truck,Bioethanol(85)-petrol(15) blend,0.127115498
-2030,Electric Dreams,Train,Diesel,0.058745035
-2030,Electric Dreams,Ship,Diesel,2.048872725
-2030,Electric Dreams,Aeroplane,Aviation fuel (Jet A-1),0.78763539
-2040,Electric Dreams,Motorcycle,Gasoline,0.017298567
-2040,Electric Dreams,Car,Gasoline,1.899750367
-2040,Electric Dreams,Car,Diesel,1.509241629
-2040,Electric Dreams,Bus,Gasoline,0.008091508
-2040,Electric Dreams,Bus,Diesel,1.00032256
-2040,Electric Dreams,Bus,Bioethanol(85)-petrol(15) blend,0.000159338
-2040,Electric Dreams,Bus,Compressed Natural Gas,2.56E-08
-2040,Electric Dreams,Bus,Liquified Petroleum Gas,5.06E-09
-2040,Electric Dreams,Bus,"Biodiesel (FT, synthetic)",0.000778188
-2040,Electric Dreams,Truck,Diesel,1.986172156
-2040,Electric Dreams,Truck,Compressed Natural Gas,0.793375823
-2040,Electric Dreams,Truck,Liquified Petroleum Gas,0.954284314
-2040,Electric Dreams,Truck,Gasoline,0.549576969
-2040,Electric Dreams,Truck,"Biodiesel (FT, synthetic)",0.941280135
-2040,Electric Dreams,Truck,Bioethanol(85)-petrol(15) blend,0.359950499
-2040,Electric Dreams,Train,Diesel,0.047617571
-2040,Electric Dreams,Ship,Diesel,2.096044123
-2040,Electric Dreams,Aeroplane,Aviation fuel (Jet A-1),0.979020906
-2050,Electric Dreams,Motorcycle,Gasoline,0.002101035
-2050,Electric Dreams,Car,Gasoline,1.477645956
-2050,Electric Dreams,Car,Diesel,0.864031118
-2050,Electric Dreams,Bus,Gasoline,0.000599466
-2050,Electric Dreams,Bus,Diesel,0.339697816
-2050,Electric Dreams,Bus,"Biodiesel (FT, synthetic)",0.000238478
-2050,Electric Dreams,Truck,Diesel,2.157860964
-2050,Electric Dreams,Truck,Compressed Natural Gas,1.007633447
-2050,Electric Dreams,Truck,Liquified Petroleum Gas,1.231408735
-2050,Electric Dreams,Truck,Gasoline,0.582242526
-2050,Electric Dreams,Truck,"Biodiesel (FT, synthetic)",1.269820682
-2050,Electric Dreams,Truck,Bioethanol(85)-petrol(15) blend,0.471392942
-2050,Electric Dreams,Train,Diesel,0.010522246
-2050,Electric Dreams,Ship,Diesel,2.121621463
-2050,Electric Dreams,Aeroplane,Aviation fuel (Jet A-1),0.857496224
-2050,Electric Dreams,Bus,Bioethanol(85)-petrol(15) blend,1.41004E-05
-2015,"Kujinao (""Know yourself"")",Motorcycle,Gasoline,2.552160323
-2015,"Kujinao (""Know yourself"")",Car,Gasoline,2.472159488
-2015,"Kujinao (""Know yourself"")",Car,Diesel,1.348875971
-2015,"Kujinao (""Know yourself"")",Bus,Diesel,5.219167092
-2015,"Kujinao (""Know yourself"")",Bus,Gasoline,0.011639459
-2015,"Kujinao (""Know yourself"")",Bus,Bioethanol(85)-petrol(15) blend,3.99322E-05
-2015,"Kujinao (""Know yourself"")",Bus,Compressed Natural Gas,0.060114775
-2015,"Kujinao (""Know yourself"")",Bus,Liquified Petroleum Gas,0.069224172
-2015,"Kujinao (""Know yourself"")",Bus,"Biodiesel (FT, synthetic)",0.003817986
-2015,"Kujinao (""Know yourself"")",Truck,Diesel,3.044553731
-2015,"Kujinao (""Know yourself"")",Truck,Compressed Natural Gas,0.039170582
-2015,"Kujinao (""Know yourself"")",Truck,Liquified Petroleum Gas,0.008467125
-2015,"Kujinao (""Know yourself"")",Truck,Gasoline,1.007813172
-2015,"Kujinao (""Know yourself"")",Truck,"Biodiesel (FT, synthetic)",0.007292844
-2015,"Kujinao (""Know yourself"")",Truck,Bioethanol(85)-petrol(15) blend,0.004120504
-2015,"Kujinao (""Know yourself"")",Train,Diesel,0.139539348
-2015,"Kujinao (""Know yourself"")",Ship,Diesel,1.994835854
-2015,"Kujinao (""Know yourself"")",Aeroplane,Aviation fuel (Jet A-1),0.664276308
-2030,"Kujinao (""Know yourself"")",Motorcycle,Gasoline,1.183237499
-2030,"Kujinao (""Know yourself"")",Car,Gasoline,3.035408637
-2030,"Kujinao (""Know yourself"")",Car,Diesel,1.519342443
-2030,"Kujinao (""Know yourself"")",Bus,Diesel,4.19877135
-2030,"Kujinao (""Know yourself"")",Bus,Gasoline,0.044285699
-2030,"Kujinao (""Know yourself"")",Bus,"Biodiesel (FT, synthetic)",0.002996174
-2030,"Kujinao (""Know yourself"")",Bus,Bioethanol(85)-petrol(15) blend,0.00057739
-2030,"Kujinao (""Know yourself"")",Bus,Compressed Natural Gas,0.006534041
-2030,"Kujinao (""Know yourself"")",Bus,Liquified Petroleum Gas,0.007399811
-2030,"Kujinao (""Know yourself"")",Truck,Diesel,1.795321315
-2030,"Kujinao (""Know yourself"")",Truck,Compressed Natural Gas,0.280352975
-2030,"Kujinao (""Know yourself"")",Truck,Liquified Petroleum Gas,0.332946785
-2030,"Kujinao (""Know yourself"")",Truck,Gasoline,0.525191419
-2030,"Kujinao (""Know yourself"")",Truck,"Biodiesel (FT, synthetic)",0.341550183
-2030,"Kujinao (""Know yourself"")",Truck,Bioethanol(85)-petrol(15) blend,0.121508931
-2030,"Kujinao (""Know yourself"")",Train,Diesel,0.229258716
-2030,"Kujinao (""Know yourself"")",Ship,Diesel,2.109824049
-2030,"Kujinao (""Know yourself"")",Aeroplane,Aviation fuel (Jet A-1),0.776656189
-2040,"Kujinao (""Know yourself"")",Motorcycle,Gasoline,0.146893549
-2040,"Kujinao (""Know yourself"")",Car,Gasoline,2.440263161
-2040,"Kujinao (""Know yourself"")",Car,Diesel,1.408139673
-2040,"Kujinao (""Know yourself"")",Bus,Gasoline,0.014439941
-2040,"Kujinao (""Know yourself"")",Bus,Diesel,2.221399673
-2040,"Kujinao (""Know yourself"")",Bus,Bioethanol(85)-petrol(15) blend,0.00030901
-2040,"Kujinao (""Know yourself"")",Bus,Compressed Natural Gas,3.12E-08
-2040,"Kujinao (""Know yourself"")",Bus,Liquified Petroleum Gas,1.01E-08
-2040,"Kujinao (""Know yourself"")",Bus,"Biodiesel (FT, synthetic)",0.001661931
-2040,"Kujinao (""Know yourself"")",Truck,Diesel,1.28542777
-2040,"Kujinao (""Know yourself"")",Truck,Compressed Natural Gas,0.573906709
-2040,"Kujinao (""Know yourself"")",Truck,Liquified Petroleum Gas,0.689895363
-2040,"Kujinao (""Know yourself"")",Truck,Gasoline,0.353462883
-2040,"Kujinao (""Know yourself"")",Truck,"Biodiesel (FT, synthetic)",0.682083648
-2040,"Kujinao (""Know yourself"")",Truck,Bioethanol(85)-petrol(15) blend,0.260341727
-2040,"Kujinao (""Know yourself"")",Train,Diesel,0.471575687
-2040,"Kujinao (""Know yourself"")",Ship,Diesel,2.183612049
-2040,"Kujinao (""Know yourself"")",Aeroplane,Aviation fuel (Jet A-1),0.82482583
-2050,"Kujinao (""Know yourself"")",Motorcycle,Gasoline,0.043719149
-2050,"Kujinao (""Know yourself"")",Car,Gasoline,1.469516656
-2050,"Kujinao (""Know yourself"")",Car,Diesel,0.967058318
-2050,"Kujinao (""Know yourself"")",Bus,Gasoline,0.001630153
-2050,"Kujinao (""Know yourself"")",Bus,Diesel,1.849909407
-2050,"Kujinao (""Know yourself"")",Bus,Bioethanol(85)-petrol(15) blend,4.02285E-05
-2050,"Kujinao (""Know yourself"")",Bus,"Biodiesel (FT, synthetic)",0.000976514
-2050,"Kujinao (""Know yourself"")",Truck,Diesel,1.483117613
-2050,"Kujinao (""Know yourself"")",Truck,Compressed Natural Gas,0.692873357
-2050,"Kujinao (""Know yourself"")",Truck,Liquified Petroleum Gas,0.846646625
-2050,"Kujinao (""Know yourself"")",Truck,Gasoline,0.399878032
-2050,"Kujinao (""Know yourself"")",Truck,"Biodiesel (FT, synthetic)",0.872720296
-2050,"Kujinao (""Know yourself"")",Truck,Bioethanol(85)-petrol(15) blend,0.323691028
-2050,"Kujinao (""Know yourself"")",Train,Diesel,0.788671132
-2050,"Kujinao (""Know yourself"")",Ship,Diesel,2.220852951
-2050,"Kujinao (""Know yourself"")",Aeroplane,Aviation fuel (Jet A-1),0.767180325
-2015,Streetfighting,Motorcycle,Gasoline,3.343193813
-2015,Streetfighting,Car,Gasoline,2.446305137
-2015,Streetfighting,Car,Diesel,1.318619521
-2015,Streetfighting,Bus,Diesel,5.349241818
-2015,Streetfighting,Bus,Gasoline,0.038824485
-2015,Streetfighting,Bus,Bioethanol(85)-petrol(15) blend,2.99231E-05
-2015,Streetfighting,Bus,Compressed Natural Gas,0.03469344
-2015,Streetfighting,Bus,Liquified Petroleum Gas,0.038939913
-2015,Streetfighting,Bus,"Biodiesel (FT, synthetic)",0.00383198
-2015,Streetfighting,Truck,Diesel,3.855027768
-2015,Streetfighting,Truck,Compressed Natural Gas,0.021902919
-2015,Streetfighting,Truck,Liquified Petroleum Gas,0.016783911
-2015,Streetfighting,Truck,Gasoline,0.581536823
-2015,Streetfighting,Truck,"Biodiesel (FT, synthetic)",0.015547549
-2015,Streetfighting,Truck,Bioethanol(85)-petrol(15) blend,0.006667383
-2015,Streetfighting,Train,Diesel,0.130274767
-2015,Streetfighting,Ship,Diesel,2.002572793
-2015,Streetfighting,Aeroplane,Aviation fuel (Jet A-1),0.648390795
-2030,Streetfighting,Motorcycle,Gasoline,2.122802246
-2030,Streetfighting,Car,Gasoline,2.653679473
-2030,Streetfighting,Car,Diesel,1.680127107
-2030,Streetfighting,Bus,Diesel,4.758513105
-2030,Streetfighting,Bus,Gasoline,0.046654699
-2030,Streetfighting,Bus,"Biodiesel (FT, synthetic)",0.00340819
-2030,Streetfighting,Bus,Bioethanol(85)-petrol(15) blend,0.000618677
-2030,Streetfighting,Bus,Compressed Natural Gas,0.003444296
-2030,Streetfighting,Bus,Liquified Petroleum Gas,0.003738425
-2030,Streetfighting,Truck,Diesel,3.388964587
-2030,Streetfighting,Truck,Compressed Natural Gas,0.123764592
-2030,Streetfighting,Truck,Liquified Petroleum Gas,0.147055745
-2030,Streetfighting,Truck,Gasoline,0.944429248
-2030,Streetfighting,Truck,"Biodiesel (FT, synthetic)",0.15141002
-2030,Streetfighting,Truck,Bioethanol(85)-petrol(15) blend,0.054358189
-2030,Streetfighting,Train,Diesel,0.193640339
-2030,Streetfighting,Ship,Diesel,2.09822869
-2030,Streetfighting,Aeroplane,Aviation fuel (Jet A-1),0.759985339
-2040,Streetfighting,Motorcycle,Gasoline,0.971588145
-2040,Streetfighting,Car,Gasoline,2.766958445
-2040,Streetfighting,Car,Diesel,1.530858278
-2040,Streetfighting,Bus,Gasoline,0.019710672
-2040,Streetfighting,Bus,Diesel,3.4423414
-2040,Streetfighting,Bus,Bioethanol(85)-petrol(15) blend,0.000461355
-2040,Streetfighting,Bus,Compressed Natural Gas,2.73E-08
-2040,Streetfighting,Bus,Liquified Petroleum Gas,4.86E-09
-2040,Streetfighting,Bus,"Biodiesel (FT, synthetic)",0.002609947
-2040,Streetfighting,Truck,Diesel,3.233750689
-2040,Streetfighting,Truck,Compressed Natural Gas,0.352324213
-2040,Streetfighting,Truck,Liquified Petroleum Gas,0.423918798
-2040,Streetfighting,Truck,Gasoline,0.913483507
-2040,Streetfighting,Truck,"Biodiesel (FT, synthetic)",0.416992996
-2040,Streetfighting,Truck,Bioethanol(85)-petrol(15) blend,0.160943791
-2040,Streetfighting,Train,Diesel,0.276558157
-2040,Streetfighting,Ship,Diesel,2.17828196
-2040,Streetfighting,Aeroplane,Aviation fuel (Jet A-1),0.756941535
-2050,Streetfighting,Motorcycle,Gasoline,0.731497732
-2050,Streetfighting,Car,Gasoline,2.852357951
-2050,Streetfighting,Car,Diesel,1.446029855
-2050,Streetfighting,Bus,Gasoline,0.003170683
-2050,Streetfighting,Bus,Diesel,4.129400952
-2050,Streetfighting,Bus,Bioethanol(85)-petrol(15) blend,8.70149E-05
-2050,Streetfighting,Bus,"Biodiesel (FT, synthetic)",0.002088365
-2050,Streetfighting,Truck,Diesel,3.432478111
-2050,Streetfighting,Truck,Compressed Natural Gas,0.454525329
-2050,Streetfighting,Truck,Liquified Petroleum Gas,0.555265415
-2050,Streetfighting,Truck,Gasoline,0.954334013
-2050,Streetfighting,Truck,"Biodiesel (FT, synthetic)",0.57107448
-2050,Streetfighting,Truck,Bioethanol(85)-petrol(15) blend,0.21387559
-2050,Streetfighting,Train,Diesel,0.388804668
-2050,Streetfighting,Ship,Diesel,2.239151659
-2050,Streetfighting,Aeroplane,Aviation fuel (Jet A-1),0.606784908
+2015,"Omoka (""Growth"")",Motorcycle,Gasoline,3.3378578930078127
+2015,"Omoka (""Growth"")",Car,Gasoline,2.4775435063300577
+2015,"Omoka (""Growth"")",Car,Diesel,1.3488231846981138
+2015,"Omoka (""Growth"")",Bus,Diesel,5.339176240610253
+2015,"Omoka (""Growth"")",Bus,Gasoline,0.03882655250549319
+2015,"Omoka (""Growth"")",Bus,Bioethanol(85)-petrol(15) blend,0.00002991095465926456
+2015,"Omoka (""Growth"")",Bus,Compressed Natural Gas,0.03468824620056157
+2015,"Omoka (""Growth"")",Bus,Liquified Petroleum Gas,0.03894160917852144
+2015,"Omoka (""Growth"")",Bus,"Biodiesel (FT, synthetic)",0.003811931417554619
+2015,"Omoka (""Growth"")",Truck,Diesel,4.631467786296211
+2015,"Omoka (""Growth"")",Truck,Gasoline,0.6609230290456074
+2015,"Omoka (""Growth"")",Truck,Compressed Natural Gas,0.008735348075866694
+2015,"Omoka (""Growth"")",Train,Diesel,0.11371279978450821
+2015,"Omoka (""Growth"")",Ship,Diesel,1.9865109211412504
+2015,"Omoka (""Growth"")",Aeroplane,Aviation fuel (Jet A-1),0.65089624059628
+2030,"Omoka (""Growth"")",Motorcycle,Gasoline,1.1390154677783202
+2030,"Omoka (""Growth"")",Car,Gasoline,2.6371438590929737
+2030,"Omoka (""Growth"")",Car,Diesel,1.8871810730221654
+2030,"Omoka (""Growth"")",Bus,Diesel,2.267559472194651
+2030,"Omoka (""Growth"")",Bus,Gasoline,0.039170375592470136
+2030,"Omoka (""Growth"")",Bus,Bioethanol(85)-petrol(15) blend,0.0003760985647781111
+2030,"Omoka (""Growth"")",Bus,Compressed Natural Gas,0.003403472372055051
+2030,"Omoka (""Growth"")",Bus,Liquified Petroleum Gas,0.003689055686344682
+2030,"Omoka (""Growth"")",Bus,"Biodiesel (FT, synthetic)",0.0018675348980370854
+2030,"Omoka (""Growth"")",Truck,Diesel,7.341040487653109
+2030,"Omoka (""Growth"")",Truck,Gasoline,1.1488662012891133
+2030,"Omoka (""Growth"")",Truck,Compressed Natural Gas,0.00003432145357877011
+2030,"Omoka (""Growth"")",Train,Diesel,0.06638081309328119
+2030,"Omoka (""Growth"")",Ship,Diesel,2.0008114615734294
+2030,"Omoka (""Growth"")",Aeroplane,Aviation fuel (Jet A-1),0.7439402557231013
+2040,"Omoka (""Growth"")",Motorcycle,Gasoline,0.08174316003113277
+2040,"Omoka (""Growth"")",Car,Gasoline,1.633963772390609
+2040,"Omoka (""Growth"")",Car,Diesel,1.1365239711970636
+2040,"Omoka (""Growth"")",Bus,Gasoline,0.004942635619167935
+2040,"Omoka (""Growth"")",Bus,Diesel,0.14277922143828303
+2040,"Omoka (""Growth"")",Bus,Bioethanol(85)-petrol(15) blend,0.00006607265488081201
+2040,"Omoka (""Growth"")",Bus,Compressed Natural Gas,2.7244690762017902e-8
+2040,"Omoka (""Growth"")",Bus,Liquified Petroleum Gas,5.0274682445978105e-9
+2040,"Omoka (""Growth"")",Bus,"Biodiesel (FT, synthetic)",0.00009498483628872784
+2040,"Omoka (""Growth"")",Truck,Diesel,6.276919728995491
+2040,"Omoka (""Growth"")",Truck,Gasoline,0.6371705116667403
+2040,"Omoka (""Growth"")",Train,Diesel,0.058805084454411745
+2040,"Omoka (""Growth"")",Ship,Diesel,2.0314639546859894
+2040,"Omoka (""Growth"")",Aeroplane,Aviation fuel (Jet A-1),0.7771232969170033
+2050,"Omoka (""Growth"")",Motorcycle,Gasoline,0.011127067322082518
+2050,"Omoka (""Growth"")",Car,Gasoline,0.9656427554079405
+2050,"Omoka (""Growth"")",Car,Diesel,0.6522346473883883
+2050,"Omoka (""Growth"")",Bus,Diesel,0.013090184912723646
+2050,"Omoka (""Growth"")",Bus,"Biodiesel (FT, synthetic)",0.000008766024882381319
+2050,"Omoka (""Growth"")",Truck,Diesel,4.028485906027335
+2050,"Omoka (""Growth"")",Truck,Gasoline,0.2504094160225431
+2050,"Omoka (""Growth"")",Train,Diesel,0.012651719045688277
+2050,"Omoka (""Growth"")",Ship,Diesel,2.044987013851634
+2050,"Omoka (""Growth"")",Aeroplane,Aviation fuel (Jet A-1),0.7301136912225545
+2050,"Omoka (""Growth"")",Bus,Gasoline,0.00007282335163652895
+2050,"Omoka (""Growth"")",Bus,Bioethanol(85)-petrol(15) blend,6.512339540326502e-7
+2015,Electric Dreams,Motorcycle,Gasoline,3.3191377801171873
+2015,Electric Dreams,Car,Gasoline,2.4765387659063585
+2015,Electric Dreams,Car,Diesel,1.349389652200523
+2015,Electric Dreams,Bus,Diesel,5.346508570896358
+2015,Electric Dreams,Bus,Gasoline,0.038824811511993386
+2015,Electric Dreams,Bus,Bioethanol(85)-petrol(15) blend,0.000029922714837911757
+2015,Electric Dreams,Bus,Compressed Natural Gas,0.03469350511169431
+2015,Electric Dreams,Bus,Liquified Petroleum Gas,0.038940387156056376
+2015,Electric Dreams,Bus,"Biodiesel (FT, synthetic)",0.003829616877019407
+2015,Electric Dreams,Truck,Diesel,4.603322083528988
+2015,Electric Dreams,Truck,Gasoline,0.655169489907428
+2015,Electric Dreams,Truck,Compressed Natural Gas,0.008701134437561027
+2015,Electric Dreams,Train,Diesel,0.11303851132868684
+2015,Electric Dreams,Ship,Diesel,1.9882156791431786
+2015,Electric Dreams,Aeroplane,Aviation fuel (Jet A-1),0.6494454284521086
+2030,Electric Dreams,Motorcycle,Gasoline,0.8681851639672852
+2030,Electric Dreams,Car,Gasoline,3.6043505056239704
+2030,Electric Dreams,Car,Diesel,2.7645348289241074
+2030,Electric Dreams,Bus,Diesel,3.3027893825015577
+2030,Electric Dreams,Bus,Gasoline,0.03934443898609283
+2030,Electric Dreams,Bus,Bioethanol(85)-petrol(15) blend,0.00042363814242161183
+2030,Electric Dreams,Bus,Compressed Natural Gas,0.0036634584312439013
+2030,Electric Dreams,Bus,Liquified Petroleum Gas,0.003999288574718671
+2030,Electric Dreams,Bus,"Biodiesel (FT, synthetic)",0.0024700743191838253
+2030,Electric Dreams,Truck,Diesel,7.021281486815135
+2030,Electric Dreams,Truck,Gasoline,1.088718541980777
+2030,Electric Dreams,Truck,Compressed Natural Gas,0.000034317784354090694
+2030,Electric Dreams,Train,Diesel,0.05469968823142625
+2030,Electric Dreams,Ship,Diesel,2.0111515741679495
+2030,Electric Dreams,Aeroplane,Aviation fuel (Jet A-1),0.7679093303169304
+2040,Electric Dreams,Motorcycle,Gasoline,0.017298567439402335
+2040,Electric Dreams,Car,Gasoline,1.8997503671977134
+2040,Electric Dreams,Car,Diesel,1.509241629436785
+2040,Electric Dreams,Bus,Gasoline,0.008091507948929908
+2040,Electric Dreams,Bus,Diesel,1.0003225601923782
+2040,Electric Dreams,Bus,Bioethanol(85)-petrol(15) blend,0.00015933796465532064
+2040,Electric Dreams,Bus,Compressed Natural Gas,2.5626193004427454e-8
+2040,Electric Dreams,Bus,Liquified Petroleum Gas,5.055314730300786e-9
+2040,Electric Dreams,Bus,"Biodiesel (FT, synthetic)",0.0007781875871643429
+2040,Electric Dreams,Truck,Diesel,5.93277898140754
+2040,Electric Dreams,Truck,Gasoline,0.43504176101622405
+2040,Electric Dreams,Train,Diesel,0.04384992283069519
+2040,Electric Dreams,Ship,Diesel,2.046946330546152
+2040,Electric Dreams,Aeroplane,Aviation fuel (Jet A-1),0.942498598506002
+2050,Electric Dreams,Motorcycle,Gasoline,0.002101035212326051
+2050,Electric Dreams,Car,Gasoline,1.4776459559517037
+2050,Electric Dreams,Car,Diesel,0.8640311179223156
+2050,Electric Dreams,Bus,Gasoline,0.0005994658336776773
+2050,Electric Dreams,Bus,Diesel,0.33969781592768566
+2050,Electric Dreams,Bus,"Biodiesel (FT, synthetic)",0.00023847824400663342
+2050,Electric Dreams,Truck,Diesel,4.147179963084288
+2050,Electric Dreams,Truck,Gasoline,0.036925822697077865
+2050,Electric Dreams,Train,Diesel,0.009553060551873528
+2050,Electric Dreams,Ship,Diesel,2.0665205517272165
+2050,Electric Dreams,Aeroplane,Aviation fuel (Jet A-1),0.7992091998544695
+2050,Electric Dreams,Bus,Bioethanol(85)-petrol(15) blend,0.00001410044458569028
+2015,"Kujinao (""Know yourself"")",Motorcycle,Gasoline,2.552160323168945
+2015,"Kujinao (""Know yourself"")",Car,Gasoline,2.4721594881905715
+2015,"Kujinao (""Know yourself"")",Car,Diesel,1.3488759708911688
+2015,"Kujinao (""Know yourself"")",Bus,Diesel,5.21916709230812
+2015,"Kujinao (""Know yourself"")",Bus,Gasoline,0.01163945875083841
+2015,"Kujinao (""Know yourself"")",Bus,Bioethanol(85)-petrol(15) blend,0.00003993218904191798
+2015,"Kujinao (""Know yourself"")",Bus,Compressed Natural Gas,0.06011477514648432
+2015,"Kujinao (""Know yourself"")",Bus,Liquified Petroleum Gas,0.06922417198510511
+2015,"Kujinao (""Know yourself"")",Bus,"Biodiesel (FT, synthetic)",0.0038179862134456667
+2015,"Kujinao (""Know yourself"")",Truck,Diesel,3.2842708121561044
+2015,"Kujinao (""Know yourself"")",Truck,Gasoline,1.052514868975091
+2015,"Kujinao (""Know yourself"")",Truck,Compressed Natural Gas,0.03394794110107427
+2015,"Kujinao (""Know yourself"")",Truck,Liquified Petroleum Gas,0.000689266080813848
+2015,"Kujinao (""Know yourself"")",Train,Diesel,0.1388609551975826
+2015,"Kujinao (""Know yourself"")",Ship,Diesel,1.9918334340313326
+2015,"Kujinao (""Know yourself"")",Aeroplane,Aviation fuel (Jet A-1),0.6632262126563233
+2030,"Kujinao (""Know yourself"")",Motorcycle,Gasoline,1.1832374989416503
+2030,"Kujinao (""Know yourself"")",Car,Gasoline,3.0354086367100725
+2030,"Kujinao (""Know yourself"")",Car,Diesel,1.5193424425633426
+2030,"Kujinao (""Know yourself"")",Bus,Diesel,4.198771350298752
+2030,"Kujinao (""Know yourself"")",Bus,Gasoline,0.044285699389874984
+2030,"Kujinao (""Know yourself"")",Bus,"Biodiesel (FT, synthetic)",0.0029961741634358897
+2030,"Kujinao (""Know yourself"")",Bus,Bioethanol(85)-petrol(15) blend,0.0005773903488467454
+2030,"Kujinao (""Know yourself"")",Bus,Compressed Natural Gas,0.006534041366577146
+2030,"Kujinao (""Know yourself"")",Bus,Liquified Petroleum Gas,0.007399810603185415
+2030,"Kujinao (""Know yourself"")",Truck,Diesel,5.187100502134756
+2030,"Kujinao (""Know yourself"")",Truck,Gasoline,0.8681803679475516
+2030,"Kujinao (""Know yourself"")",Truck,Compressed Natural Gas,0.0002346968429088596
+2030,"Kujinao (""Know yourself"")",Truck,Liquified Petroleum Gas,0.000004765195323345181
+2030,"Kujinao (""Know yourself"")",Train,Diesel,0.21730939275957692
+2030,"Kujinao (""Know yourself"")",Ship,Diesel,2.071188622810291
+2030,"Kujinao (""Know yourself"")",Aeroplane,Aviation fuel (Jet A-1),0.756769440237514
+2040,"Kujinao (""Know yourself"")",Motorcycle,Gasoline,0.14689354912877994
+2040,"Kujinao (""Know yourself"")",Car,Gasoline,2.4402631605095757
+2040,"Kujinao (""Know yourself"")",Car,Diesel,1.4081396730720643
+2040,"Kujinao (""Know yourself"")",Bus,Gasoline,0.014439941178852576
+2040,"Kujinao (""Know yourself"")",Bus,Diesel,2.22139967323509
+2040,"Kujinao (""Know yourself"")",Bus,Bioethanol(85)-petrol(15) blend,0.00030901038183354164
+2040,"Kujinao (""Know yourself"")",Bus,Compressed Natural Gas,3.123222936119423e-8
+2040,"Kujinao (""Know yourself"")",Bus,Liquified Petroleum Gas,1.0078188074819887e-8
+2040,"Kujinao (""Know yourself"")",Bus,"Biodiesel (FT, synthetic)",0.0016619313981980088
+2040,"Kujinao (""Know yourself"")",Truck,Diesel,6.411233753872149
+2040,"Kujinao (""Know yourself"")",Truck,Gasoline,0.6227831429340421
+2040,"Kujinao (""Know yourself"")",Train,Diesel,0.4498137490528395
+2040,"Kujinao (""Know yourself"")",Ship,Diesel,2.1356433200006038
+2040,"Kujinao (""Know yourself"")",Aeroplane,Aviation fuel (Jet A-1),0.7900356691376759
+2050,"Kujinao (""Know yourself"")",Motorcycle,Gasoline,0.04371914879272468
+2050,"Kujinao (""Know yourself"")",Car,Gasoline,1.4695166558872825
+2050,"Kujinao (""Know yourself"")",Car,Diesel,0.9670583180456189
+2050,"Kujinao (""Know yourself"")",Bus,Gasoline,0.0016301526205786498
+2050,"Kujinao (""Know yourself"")",Bus,Diesel,1.8499094068993958
+2050,"Kujinao (""Know yourself"")",Bus,Bioethanol(85)-petrol(15) blend,0.00004022849048761816
+2050,"Kujinao (""Know yourself"")",Bus,"Biodiesel (FT, synthetic)",0.0009765144647061822
+2050,"Kujinao (""Know yourself"")",Truck,Diesel,7.145352494641698
+2050,"Kujinao (""Know yourself"")",Truck,Gasoline,0.5430190352744406
+2050,"Kujinao (""Know yourself"")",Train,Diesel,0.7550060275306242
+2050,"Kujinao (""Know yourself"")",Ship,Diesel,2.1708543667388547
+2050,"Kujinao (""Know yourself"")",Aeroplane,Aviation fuel (Jet A-1),0.717677535011394
+2015,Streetfighting,Motorcycle,Gasoline,3.3431938126953122
+2015,Streetfighting,Car,Gasoline,2.4463051366989035
+2015,Streetfighting,Car,Diesel,1.3186195207166278
+2015,Streetfighting,Bus,Diesel,5.349241818398503
+2015,Streetfighting,Bus,Gasoline,0.03882448496246338
+2015,Streetfighting,Bus,Bioethanol(85)-petrol(15) blend,0.000029923143796709733
+2015,Streetfighting,Bus,Compressed Natural Gas,0.03469344031524657
+2015,Streetfighting,Bus,Liquified Petroleum Gas,0.03893991320903322
+2015,Streetfighting,Bus,"Biodiesel (FT, synthetic)",0.0038319804756492414
+2015,Streetfighting,Truck,Diesel,4.416444230727459
+2015,Streetfighting,Truck,Gasoline,0.8636330797127421
+2015,Streetfighting,Truck,Compressed Natural Gas,0.008729215442657463
+2015,Streetfighting,Train,Diesel,0.12748251207166056
+2015,Streetfighting,Ship,Diesel,1.9913707642328466
+2015,Streetfighting,Aeroplane,Aviation fuel (Jet A-1),0.6440776519659125
+2030,Streetfighting,Motorcycle,Gasoline,2.1228022455541997
+2030,Streetfighting,Car,Gasoline,2.653679473013097
+2030,Streetfighting,Car,Diesel,1.680127107439342
+2030,Streetfighting,Bus,Diesel,4.758513104856225
+2030,Streetfighting,Bus,Gasoline,0.046654698524564525
+2030,Streetfighting,Bus,"Biodiesel (FT, synthetic)",0.0034081896832415443
+2030,Streetfighting,Bus,Bioethanol(85)-petrol(15) blend,0.000618676509551184
+2030,Streetfighting,Bus,Compressed Natural Gas,0.0034442961769104
+2030,Streetfighting,Bus,Liquified Petroleum Gas,0.0037384246736783177
+2030,Streetfighting,Truck,Diesel,6.048733003215574
+2030,Streetfighting,Truck,Gasoline,1.9008962685339037
+2030,Streetfighting,Truck,Compressed Natural Gas,0.00003501363407820463
+2030,Streetfighting,Train,Diesel,0.17894974401786037
+2030,Streetfighting,Ship,Diesel,2.0523031698705654
+2030,Streetfighting,Aeroplane,Aviation fuel (Jet A-1),0.738638391962811
+2040,Streetfighting,Motorcycle,Gasoline,0.9715881446818209
+2040,Streetfighting,Car,Gasoline,2.76695844487349
+2040,Streetfighting,Car,Diesel,1.530858277912805
+2040,Streetfighting,Bus,Gasoline,0.019710672386765597
+2040,Streetfighting,Bus,Diesel,3.442341399963449
+2040,Streetfighting,Bus,Bioethanol(85)-petrol(15) blend,0.0004613549518022468
+2040,Streetfighting,Bus,Compressed Natural Gas,2.732902497518812e-8
+2040,Streetfighting,Bus,Liquified Petroleum Gas,4.855340731297893e-9
+2040,Streetfighting,Bus,"Biodiesel (FT, synthetic)",0.0026099466301277327
+2040,Streetfighting,Truck,Diesel,7.744663658236463
+2040,Streetfighting,Truck,Gasoline,2.4948828131587235
+2040,Streetfighting,Train,Diesel,0.2535904373131764
+2040,Streetfighting,Ship,Diesel,2.1274669192568565
+2040,Streetfighting,Aeroplane,Aviation fuel (Jet A-1),0.7264647627164879
+2050,Streetfighting,Motorcycle,Gasoline,0.7314977324609376
+2050,Streetfighting,Car,Gasoline,2.852357951484507
+2050,Streetfighting,Car,Diesel,1.4460298546678598
+2050,Streetfighting,Bus,Gasoline,0.003170682938486336
+2050,Streetfighting,Bus,Diesel,4.129400952449379
+2050,Streetfighting,Bus,Bioethanol(85)-petrol(15) blend,0.00008701488062077306
+2050,Streetfighting,Bus,"Biodiesel (FT, synthetic)",0.0020883645710200053
+2050,Streetfighting,Truck,Diesel,8.94084035026099
+2050,Streetfighting,Truck,Gasoline,3.0138382389535834
+2050,Streetfighting,Train,Diesel,0.3554910604569735
+2050,Streetfighting,Ship,Diesel,2.1870678312037257
+2050,Streetfighting,Aeroplane,Aviation fuel (Jet A-1),0.5671324904174686
