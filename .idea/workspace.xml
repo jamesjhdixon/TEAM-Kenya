@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ada9abe3-6528-4a03-8a54-6633c42f154e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/csv/ghg-emissions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plots/csv/ghg-emissions.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/ghg-emissions-from-model-data.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/ghg-emissions-from-model-data.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/ghg-emissions-from-modeldata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/ghg-emissions-from-modeldata.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/ghg_dfs.pckl" beforeDir="false" afterPath="$PROJECT_DIR$/plots/ghg_dfs.pckl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/vehicle-km.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/vehicle-km.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/vehicle-km.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/vehicle-km.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/TEAM-Kenya_scenario-dev.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/TEAM-Kenya_scenario-dev.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +92,7 @@
       <workItem from="1698315629862" duration="9589000" />
       <workItem from="1698426706691" duration="2258000" />
       <workItem from="1698654547812" duration="2643000" />
+      <workItem from="1700156308558" duration="2366000" />
     </task>
     <servers />
   </component>
