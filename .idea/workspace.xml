@@ -5,62 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ada9abe3-6528-4a03-8a54-6633c42f154e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/plots/vehkm-quick-plot.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byfuel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byfuel.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byveh-electricdreams.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byveh-electricdreams.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byveh-kujinao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byveh-kujinao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byveh-omoka.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byveh-omoka.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byveh-streetfighting.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/ghg-byveh-streetfighting.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/vehkm-byfuel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/vehkm-byfuel.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/vehkm-byfuel.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/vehstock-byfuel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/dashboard-data-out/vehstock-byfuel.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxELECTRICDREAMS.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxELECTRICDREAMS.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxKUJINAO.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxKUJINAO.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxOMOKA.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxOMOKA.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxSTREETFIGHTING.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Policy_Step1_TechnologyTaxSTREETFIGHTING.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Scen_VanTypesELECTRICDREAMS.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Scen_VanTypesELECTRICDREAMS.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Scen_VanTypesKUJINAO.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Scen_VanTypesKUJINAO.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Scen_VanTypesOMOKA.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Scen_VanTypesOMOKA.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Scen_VanTypesSTREETFIGHTING.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TEAM-Kenya_data_out/scenarios/Scen_VanTypesSTREETFIGHTING.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/Vehicle-stock.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/Vehicle-stock.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/csv/energy-consumption-by-vector.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plots/csv/energy-consumption-by-vector.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/csv/ghg-intensity.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plots/csv/ghg-intensity.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/csv/vehicle-km.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plots/csv/vehicle-km.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/csv/vehicle-stock.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plots/csv/vehicle-stock.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/emissions-intensity.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/emissions-intensity.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/emissions-intensity.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/emissions-intensity.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/energy-consumption-by-vector-kWh.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector-kWh.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/energy-consumption-by-vector-totalPJ.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector-totalPJ.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/energy-consumption-by-vector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/energy-consumption-by-vector.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/energy-consumption-by-vector.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/fiscal_position.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/fiscal_position.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/fuel_taxation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/fuel_taxation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/csv/ghg-emissions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plots/csv/ghg-emissions.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/ghg-emissions-from-model-data.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/ghg-emissions-from-model-data.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/ghg-emissions-from-modeldata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/ghg-emissions-from-modeldata.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/ghg-emissions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/ghg-emissions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/ghg-emissions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/ghg-emissions.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/ghg-intensity.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/ghg-intensity.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/subsidy-costs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/subsidy-costs.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/taxation_vehicle_and_fuel_sales-separatelines.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/taxation_vehicle_and_fuel_sales-separatelines.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/taxation_vehicle_and_fuel_sales.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/taxation_vehicle_and_fuel_sales.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/total-pj-consumption.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/total-pj-consumption.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/ghg_dfs.pckl" beforeDir="false" afterPath="$PROJECT_DIR$/plots/ghg_dfs.pckl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/vehicle-km.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/vehicle-km.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/vehicle-km.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/vehicle-km.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/vehicle-sales-tax.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/plots/vehicle-sales-tax.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/vehicle-stock.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plots/vehicle-stock.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/PolicyStep1_TechnologyTax_translate_techsubsidies_to_technology.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/PolicyStep1_TechnologyTax_translate_techsubsidies_to_technology.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/Scen_VanTypes_change_supply_penalty_of_trucks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/Scen_VanTypes_change_supply_penalty_of_trucks.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/ED.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/ED.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/ET.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/ET.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/Interface_VSM_NumVeh.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/Interface_VSM_NumVeh.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/Interface_VSM_VehKM.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/Interface_VSM_VehKM.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/VEEMEIM_QF.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/ELECTRICDREAMS/VEEMEIM_QF.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/OMOKA/ED.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/OMOKA/ED.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/OMOKA/ET.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/OMOKA/ET.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/OMOKA/Interface_VSM_NumVeh.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/OMOKA/Interface_VSM_NumVeh.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/OMOKA/Interface_VSM_VehKM.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/OMOKA/Interface_VSM_VehKM.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/data-out/OMOKA/VEEMEIM_QF.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/data-out/OMOKA/VEEMEIM_QF.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +95,8 @@
       <workItem from="1697726178670" duration="2394000" />
       <workItem from="1697786700031" duration="1287000" />
       <workItem from="1698315629862" duration="9589000" />
-      <workItem from="1698426706691" duration="1624000" />
+      <workItem from="1698426706691" duration="2258000" />
+      <workItem from="1698654547812" duration="2643000" />
     </task>
     <servers />
   </component>
